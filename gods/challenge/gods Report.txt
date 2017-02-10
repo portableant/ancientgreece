@@ -1,0 +1,92 @@
+Movie Report
+-------------
+FrameFrame #    Frame Bytes    Total Bytes    Page
+------------    -----------    -----------    ---------------
+    1            30             30        Scene 1
+    2          4560           4590          2
+    3             2           4592          3
+    4            59           4651          4
+    5          2147           6798          5
+    6           276           7074          6
+    7          2227           9301          7
+    8          2813          12114          8
+    9           174          12288          9
+   10           253          12541          10
+   11            95          12636          11
+   12          3289          15925          12
+   13          5129          21054          13
+   14         28440          49494          14
+   15          5401          54895          15
+   16             2          54897          16
+   17             2          54899          17
+   18           709          55608          18
+   19             2          55610          19
+   20          4053          59663          20
+   21             2          59665          21
+   22          2717          62382          22
+   23             2          62384          23
+   24             2          62386          24
+   25             2          62388          25
+   26          2847          65235          26
+   27             2          65237          27
+
+Page                       Shape Bytes    Text Bytes
+-----------------------    -----------    ----------
+Scene 1                         194          1271
+
+Embedded Objects                150             0
+
+Page                       Symbol Bytes    Text Bytes
+-----------------------    ------------    ----------
+Symbol 77                        57             0
+loading...                        0            43
+inst_5                            0           126
+inst_4                            0            67
+inst_3                            0           105
+inst_2                            0            95
+inst_1                            0            82
+intro text                        0           287
+mov correcctly named            435            71
+mov incorrectlyNamed            825           148
+playAgain                        39            48
+aboutObjects                     39            85
+mov howWell                       0             0
+howWell                           0           167
+draghand                          0             0
+btn god name selected          1957             0
+btn god name                   1080             0
+mov enlarge                       0             0
+swf                               0             0
+imageholder                      40             0
+but_next                         43           192
+but_start                         0           120
+but_previous                     56           215
+text bg                          40             0
+but next                         66             0
+magnify                           0           216
+magnify -                        86           212
+background                      137             0
+but gods                          0            70
+mov_drag                          0             0
+but symbol                        0             0
+but symbol about                  0             0
+btn symbol                     2151             0
+btn symbol  selected           1726             0
+symbolholder                      0             0
+Preloader                        38             0
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+m_glass.gif                      844        1344   Lossless
+m_glass_1.gif                    634        1344   
+m_glass_0.gif                    439         640   
+cursor_hand                       93         256   
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+Albertus Bold                 150        +-
+Arial                        1263         abceijnoprstuvx
+Albertus Medium              1346         Gabdeglmnosy
+_sans Bold                   1845         ?CHabcdeghiklmnorstuvwy
+_sans                        4476         -?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz

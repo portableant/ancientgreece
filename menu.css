@@ -1,0 +1,25 @@
+ body {
+	background-color: Black;
+	color: White;
+}
+ :link {
+	color: White;
+	background-color : transparent;
+}
+ :visited {
+	color: White;
+	background-color : transparent;
+}
+ :active {
+	color: Silver;
+	background-color : transparent;
+}
+DIV {
+	font-family: helvetica,arial,sans-serif;
+	font-size : smaller;
+	font-weight : bold;
+}
+DIV.staff {
+	font-size : x-small;
+}
+

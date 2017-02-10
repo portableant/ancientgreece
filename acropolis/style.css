@@ -1,0 +1,76 @@
+ body{
+	background-color: #DFD9C9;
+	color: black;
+}
+ :link {
+	color: #840000;
+	background-color : transparent;
+}
+ :visited {
+	color: #590000;
+	background-color : transparent;
+}
+ :active {
+	color: Red;
+	background-color : transparent;
+}
+td {
+	font-family: helvetica,arial,sans-serif;
+	color : Black;
+}
+H3 {
+	font-family : helvetica,arial,sans-serif;
+	text-align : center;
+	color:black;
+}
+.title {
+	font-family : "Albertus Medium",helvetica,arial,sans-serif;
+	color : #000000;
+}
+.main{
+	background-color : #dfd9c9;
+}
+.caption {
+	font-size : 75%;
+	text-align : center;
+	color : #cccccc;
+}
+.small {
+	font-size : 75%;
+}
+.large {
+	font-size : 125%;
+}
+.text{
+	font-family: helvetica,arial,sans-serif;
+	color : White;
+}
+.print{
+	display : none;
+}
+#topLeft{
+	position:absolute;
+	left:0;
+	top:0;
+}
+table.w502 {
+	width : 502px;
+	background-color : #b8714a;
+	display : block;
+}
+table.w500 {
+	width : 500px;
+	background-color : #82350b;
+	display : block;
+}
+
+.tableMain {
+	background-color: #E6E6E1;
+}
+.tableBack {
+	background-image: url(images/acropolis.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	background-color: #E6E6E1;
+
+}

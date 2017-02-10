@@ -1,0 +1,36 @@
+ body {
+	background-color:#F3D7BA;
+	color: black;
+}
+ :link {
+	color: #840000;
+	background-color : transparent;
+}
+ :visited {
+	color: #590000;
+	background-color : transparent;
+}
+ :active {
+	color: Red;
+	background-color : transparent;
+}
+td {
+	font-family: helvetica,arial,sans-serif;
+}
+td.main {
+	width : 440px;
+	color : Black;
+}
+H3 {
+	font-family : "Albertus Medium",helvetica,arial,sans-serif;
+}
+div.caption {
+	font-size : 75%;
+	text-align : center;
+	color : #333333;
+}
+div.htmlversion {
+	font-size : 60%;
+	text-align : right;
+	color : #333333;
+}

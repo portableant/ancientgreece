@@ -1,0 +1,51 @@
+ body {
+	background-color: #dfd9c9;
+	color: black;
+}
+ :link {
+	color: #840000;
+	background-color : transparent;
+}
+ :visited {
+	color: #590000;
+	background-color : transparent;
+}
+ :active {
+	color: Red;
+	background-color : transparent;
+}
+td {
+	font-family: helvetica,arial,sans-serif;
+}
+td.main {
+	width : 440px;
+	color : Black;
+}
+.space {
+	padding : 10px 10px 10px 10px;
+}
+
+H3 {
+	font-family : helvetica,arial,sans-serif;
+	text-align : center;
+}
+H3.title {
+	font-family : helvetica,arial,sans-serif;
+	color : #FFcc66;
+	padding : 10px 10px 0px 10px;
+}
+.caption {
+	font-size : 75%;
+	font-family : helvetica,arial,sans-serif;
+	text-align : center;
+	color : #666666;
+}
+.colour {
+	color : #FFcc66;	
+}
+.high {
+	height : 140px;
+}
+p {
+	font-family: helvetica,arial,sans-serif;
+}

@@ -1,0 +1,16 @@
+﻿&intro=<b>You have been commissioned by the city of Athens to build a temple for Athena. You must now make some decisions about the design of the temple.</b>
+&feedback=In Athens, temples were built in both the Ionic and Doric styles of architecture. Elsewhere in mainland Greece, the Doric style was traditionally used and in the Greek islands and colonies to the east, the Ionic style was used.
+&workmen=<b>The workmen have started building your temple, but there are still some decisions to be made.</b>
+&qu1=<b>What order, or style, will you build your temple in?</b>
+&qu3=<b>What plan will your temple follow (this decides the number of columns along the ends and sides of the temple)?</b>
+&qu2=<b>How big will your temple be (this is decided by the height of the columns)?</b>
+&qu4=<b>What materials will you use to build the temple?</b>
+&qu5=<b>How will your temple be decorated?</b>
+&qu6=<b>You have an ancient olive wood statue of Athena to place in the temple. Do you want to commission a new statue of the god as well?</b>
+&qu6a=<b>What material will the god’s statue be made of?</b>&havealook=You have made a series of decisions about the design of your temple…... You can now see the completed temple!
+&DoricsumIntro=<b>You have built a Doric temple for Athena. The citizens of Athens are very pleased with it.</b>
+&DoricsumText=You can now compare your temple with another Doric temple that was built for Athena.<br><br>This temple for Athena, called the Parthenon, is one of the most famous buildings in the world. As it is built in the Doric style, it has sturdy Doric columns with plain capitals. It had sculpted metopes all the way round the building and sculptures decorating the pediments. Unusually, this Doric building also had Ionic features. It had a sculpted frieze around the inner building, called the cella.<br><br><i><u><a href="javascript:openWin('doric1.html','win')">Now see some other Doric temples from around Greece!</a></u></i>
+&IonicsumIntro=<b>You have built an Ionic temple for Athena. The citizens of Athens are very pleased with it.</b>
+&IonicsumText=You can now compare your temple with another Ionic temple that was built for Athena.<br><br>This temple for Athena Nike stands on the Acropolis in Athens. It is a small Ionic temple with four columns across the front and back of the walled room, or cella. The Ionic columns have capitals decorated with scrolls. A sculpted frieze, typical of Ionic temples, ran all the way round the building. The pediments no longer exist, but one of them is thought to have contained sculpted figures.<br><br><i><u><a href="javascript:openWin('ionic1.html','win')">Now see some other Ionic temples from around Greece!</a></u></i>
+&muchodollartext=<b> However, you spent a huge amount of money on this temple and the city has had to raise extra money to cover the costs!</b>
+&godsExplan=This is your new statue of Athena.

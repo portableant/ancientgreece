@@ -1,0 +1,1 @@
+_magVar1=1.5&_magVar2s=2&image1=assets/mus4sm.swf&image2=assets/mus4lg.swf&hex=0xa17a45&max_zoom=400&DATA=l_oaded

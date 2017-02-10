@@ -1,0 +1,1 @@
+_magVar1=1.5&_magVar2=4&image1=assets/alasm.swf&image2=assets/alalg.swf&hex=0xb8714a&max_zoom=400&DATA=l_oaded

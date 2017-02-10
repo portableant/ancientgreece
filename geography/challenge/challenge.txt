@@ -1,0 +1,16 @@
+﻿&obj1=There are traces of wine in many of these amphorae. It’s quite hard to tell where wine comes from since grapes are grown all over the Greek world. Sorry I can’t help with this one. <b>However, if you can identify the stamp on the amphorae, it may tell you more</b>.
+&obj2=Some almonds have been preserved in these amphorae. Almond trees were most frequently grown on <b>Thasos</b> and <b>Cyprus</b>.
+&obj3=These iron spearheads aren’t being carried in large enough numbers to be part of the cargo for trade. Perhaps they were the crew’s personal weapons.  It is very strange though that some of the spearheads are stuck in the hull. It wouldn’t make sense for the crew to attack their ship.
+&obj4=These are fish hooks. They are probably the crew’s personal fishing equipment. Fishing was a good way of finding extra food while away on a voyage.
+&obj5=These millstones were probably used to balance the ship, so that it wouldn’t become too overloaded on one side and sink. They were probably loaded at the beginning of the ship’s journey. Millstones like these ones could have come from <b>Thera</b>, the <b>Levant</b> or <b>western Turkey</b>, but analysis of the stone tells us that the ones in this wreck probably came from <b>Nisyros</b>.
+&expertsNo=2
+&expertsOpinion0=The ship’s journey started at Nisyros, where it picked up the millstones. It then travelled to Rhodes, where a large amount of wine was brought on board. It continued to Cyprus where a cargo of almonds was collected. The ship was then attacked by pirates off the coast of Cyprus.
+&expertsOpinion1=Piracy was very common in the Mediterranean at this time. The ship was destroyed in the attack. The crew were probably sold as slaves by the pirates.  
+&chiosStamp=Chios
+&knidosStamp=Knidos
+&rhodesStamp=Rhodes
+&newobj1=There are traces of wine in many of these amphorae. It’s quite hard to tell where wine comes from since grapes are grown all over the Greek world. The stamp book identified them as being from <b>Rhodes</b>.  
+&newobj2=Some almonds have been preserved. Almond trees were most frequently grown in Asia Minor and some of the Ionian islands. 
+&newobj3=These iron spearheads aren’t being carried in large enough numbers to be part of the cargo for trade. Perhaps they were the crew’s personal weapons.  It is very strange though that some of the spearheads are stuck in the hull. It wouldn’t make sense for the crew to attack their ship.
+&newobj4=These are fish hooks. They are probably the crew’s personal fishing equipment. Fishing was a good way of finding extra food while away on a voyage. 
+&newobj5=These millstones were probably used to balance the ship, so that it wouldn’t become too overloaded on one side and sink. They would not have been traded and were probably loaded at the beginning of the ship’s journey. Analysis of the stone tells us that these came from Nisyros

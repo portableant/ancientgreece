@@ -1,0 +1,56 @@
+NOTE: maxSpeed, ramSpeed, cruiseSpeed and reverseSpeed control the approach and retreat from targets as
+you would expect, but be aware! Use whole numbers which are divided by 10 within flash to give fine control and certain combinations my give unexpected results. If this occurs reset to maxSpeed=6 ramSpeed=4 cruiseSpeed=2 reverseSpeed=12//
+
+&maxSpeed=7
+&ramSpeed=5
+&cruiseSpeed=3
+&reverseSpeed=-12
+
+NOTE: idleSpeed controls the enemy boat movement when nothing else is going on, again it is divided by 10 within flash
+&idleSpeed=2
+
+NOTE: evadeSpeed is as above but controls the left and right steering as well as the evade button
+&evadeSpeed=25
+
+NOTE: game limit sets the game timout in whole minutes only
+&gameLimit=3
+
+NOTE: ramMax is the counter(not strict time as the movie runs at 24fps) limit for the time between being rammed and sinking, the player is allowed this count to react (unless they have rammed at maxSpeed).
+&ramMax=90
+
+NOTE: ramScale is the _xscale of the target that the movie checks as pseudo 3d to determine how "close" it is and therefore if the target has been rammed, warningScale is the same but mearly triggers and alert that one is close
+&ramScale=250
+&warningScale=220
+
+NOTE: doSomethingStart sets the time allowed the player to be idle before being promted to press some buttons, this actually sets the entire sequence of enemy attack with the SPREAD variable being the time between individual events (in seconds) and WINDOW being the duration of each event
+&doSomethingStart=6
+&spread=7
+&window=3
+
+NOTE: below is the text for the various warnings and comments
+&prompt1=Commander, choose a target
+&Warning1=Our ram is stuck, we are being boarded!
+&Warning2=Enemy ship approaching!
+&warning3=Enemy ship nearing, take evasive action!
+&warning4=We're going too fast to ram!
+&warning5=Now, back water before we are boarded.
+&warning6=We have been rammed, our ship is sinking!
+&warning7=XXXyou have been taken by the enemyXXX
+&warning8=You have been boarded
+&warning9=You have avoided the enemy attack
+&noenemy=This ship is on your side!
+&congrats=Well done, you have sunk an enemy ship.
+You get 10 points
+&allSunk=Perfect score!, you have sunk the entire fleet.
+&youSunk=Your ship was sunk by the enemy, try again!
+&instructions1=During the wars with Persia a huge sea battle took place near the Island of Salamis. The Greek Navy won with ships called triremes.   The ships had to move quickly and ram the enemy boats, whilst avoiding being rammed or boarded themselves. Take command of a Greek triremes and see how many ships you can ram. Select a ship to ram and row at 'maximum speed' When close to a ship order 'ramming speed' to make sure you don't get your ram stuck. Steer left and right to find targets. When you've rammed a ship you must 'back water' to avoid being boarded.
+Good luck commander.
+&instructions2=-Your aim is to win points by ramming as many enemy ships as possible in the time available.
+-You will select the target ship by clicking on it. The best target is a boat that is side-on to you. You must then order 'maximum speed' from your rowers.
+-When you are close to the enemy ship you must order 'ramming speed', so that you don't hit the ship with too great a force and get your ram stuck.
+-The ships like the one below are on your side and you cannot choose them as targets.
+-Steer left and right to find targets when you cannot see any.
+&instructions3=-When you have rammed a ship, you must order the rowers to 'back water'; they will row backwards to remove your ship from enemy range. If you are slow doing this you will be boarded and lose points!
+-You must look out for warnings from your bow officer - he will tell you if there are enemy ships approaching. You must avoid any enemy ships by ordering the officer steering the boat to change direction. (Would they have turned to face an approaching enemy, as they would then be facing them with the ram?XXX)
+-If you are rammed by an enemy your boat will sink! If you get boarded by the enemy you will lose points!
+-Once you have rammed an enemy ship successfully and got away from them without being boarded, you can select your next target. Good luck commander!

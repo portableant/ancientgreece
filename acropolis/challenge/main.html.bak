@@ -1,0 +1,55 @@
+<HTML>
+<HEAD>
+<meta http-equiv=Content-Type content="text/html;  charset=ISO-8859-1">
+<TITLE>challenge</TITLE>
+<link rel="stylesheet" href="style.css" type="text/css">
+<script type="text/javascript" language="JavaScript" src="../../common.js">
+<!-- 
+
+
+// -->
+</script>
+</HEAD>
+<BODY>
+<div align="center">
+<script type="text/javascript" language="JavaScript">
+<!-- 
+var MM_contentVersion = 6;
+var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
+if ( plugin ) {
+		var words = navigator.plugins["Shockwave Flash"].description.split(" ");
+	    for (var i = 0; i < words.length; ++i)
+	    {
+		if (isNaN(parseInt(words[i])))
+		continue;
+		var MM_PluginVersion = words[i]; 
+	    }
+	var MM_FlashCanPlay = MM_PluginVersion >= MM_contentVersion;
+}
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0 
+   && (navigator.appVersion.indexOf("Win") != -1)) {
+	document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n'); //FS hide this from IE4.5 Mac by splitting the tag
+	document.write('on error resume next \n');
+	document.write('MM_FlashCanPlay = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & MM_contentVersion)))\n');
+	document.write('</SCR' + 'IPT\> \n');
+}
+
+if ( MM_FlashCanPlay ) {
+		document.write(' <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" ');
+	document.write(' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" ');
+	document.write('  width="580" height="435" id="model" align="center"> ');
+	document.write(' <param name="movie" value="challenge.swf"><param name="quality" value="high"> ');
+	document.write(' <param name="bgcolor" value="#dfd9c9"><embed src="challenge.swf" quality="high" bgcolor="#dfd9c9" ');
+	document.write(' width="580" height="435" name="model" type="application/x-shockwave-flash" ');
+	document.write(' pluginspage="http://www.macromedia.com/go/getflashplayer"></embed> ');
+	document.write(' </object>');
+}
+else{
+
+document.write('<img src="images/model.jpg" width="580" height="245" alt="" border="0" usemap="#acropolis">');
+}
+//-->
+</script>
+</div>
+</BODY>
+</HTML>

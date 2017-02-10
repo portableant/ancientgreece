@@ -1,0 +1,69 @@
+ body{
+	background-color: #333333;
+	color: white;
+}
+body.pots{ 
+	background-image: url(images/bg_square.gif);
+	background-repeat: repeat;
+	background-color:#a0410d;
+	color: white;
+}
+ :link {
+	color: #FBDAAC;
+	background-color : transparent;
+}
+ :visited {
+	color: #E8D8C1;
+	background-color : transparent;
+}
+ :active {
+	color: #ffffff;
+	background-color : transparent;
+}
+td {
+	font-family: helvetica,arial,sans-serif;
+	color : White;
+}
+H3 {
+	font-family : helvetica,arial,sans-serif;
+	text-align : center;
+	color:white;
+}
+.title {
+	font-family : "Albertus Medium",helvetica,arial,sans-serif;
+	color : #000000;
+}
+.caption {
+	font-size : 75%;
+	text-align : center;
+	color : #cccccc;
+}
+.small {
+	font-size : 75%;
+}
+.large {
+	font-size : 125%;
+}
+.text{
+	font-family: helvetica,arial,sans-serif;
+	color : White;
+}
+.print{
+	display : none;
+}
+#topLeft{
+	position:absolute;
+	left:0;
+	top:0;
+}
+table.w502 {
+	width : 502px;
+	background-color : #b8714a;
+	display : block;
+}
+table.w500 {
+	width : 500px;
+	background-color : #82350b;
+	display : block;
+}
+

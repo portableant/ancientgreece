@@ -1,0 +1,1 @@
+_magVar1=1.5&_magVar2=4&image1=assets/sla2sm.swf&image2=assets/sla2lg.swf&hex=0xa17a45&max_zoom=400&DATA=l_oaded

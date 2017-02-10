@@ -1,0 +1,11 @@
+&trial1=My stepmother, Eirene, is guilty of poisoning my father. I am here to ask for his murderer to be punished. 
+Eirene asked her friend to give poison to my father while he was dining in Piraeus. She told her friend that it was a harmless love potion.  My stepmother was quite happy for her friend to be accused of this murder and killed in punishment!
+This is not the first time Eirene has tried to kill my father. Please help me find justice and punish this woman for her crime!
+&trial2=My mother is completely innocent of this crime. She believed that the mixture she gave my father was a love-potion. She did not intend to kill him. She just wanted to make their love stronger. His death was an accident.
+My half brother, Apelleas, will tell you that my mother had tried to murder father before. However, he has no evidence for this.  
+Let my poor grieving mother go free!
+&trial7=Do you think Eirene is guilty?
+If yes, place the solid ballot in the 'Verdict' hydria. If you think she's innocent, place the ballot with the hole in the 'Verdict' hydria.
+&trial8=Place the ballot you didn't use in the 'Discard' hydria.
+&trial9=We do not know what the result of this trial was. Why do you think Eirene did not speak for herself?
+&trialOpening=Hear the arguments in the trial of Eirene and decide whether you think she is guilty or innocent!

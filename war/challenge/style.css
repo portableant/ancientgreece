@@ -1,0 +1,72 @@
+ body{
+	font-family: helvetica,arial,sans-serif;
+	background-color: #333333;
+	color: #face39;
+}
+ body.popUp{
+	font-family: helvetica,arial,sans-serif;
+	background-color: #face39;
+	color: #000000;
+	background-image : url(images/build/bg1.jpg);
+	background-repeat: repeat;
+}
+ :link {
+	color: #660000;
+	background-color : transparent;
+}
+ :visited {
+	color: #660000;
+	background-color : transparent;
+}
+ :active {
+	color: #660000;
+	background-color : transparent;
+}
+td {
+	font-family: helvetica,arial,sans-serif;
+	color: #ffff99;	
+}
+td.test {
+	font-family: helvetica,arial,sans-serif;
+	color: #000000;	
+}
+H3 {
+	font-family: helvetica,arial,sans-serif;
+	text-align : center;
+	color: #ffff99;
+}
+.caption {
+	font-size : 75%;
+	color : #333333;
+	width : 350px;
+}
+P.w400 {
+	width : 400px;
+}
+.poemLeft{
+	font-family: helvetica,arial,sans-serif;
+	font-style : normal;
+	color : #000000;
+	margin-left : 5px;
+	}
+.poemRight{
+	font-family: helvetica,arial,sans-serif;
+	font-style : normal;
+	color : #000000;
+	margin-left : 5px;
+	}
+.poem{
+	font-family: helvetica,arial,sans-serif;
+	font-style : normal;
+	color : #000000;
+	width : 400px;
+	margin-left:5px;
+	}
+.leftPattern{
+background-image : url(images/build/pattern_left.jpg);
+background-repeat : repeat-y;
+}
+.rightPattern{
+background-image : url(images/build/pattern_right.jpg);
+background-repeat : repeat-y;
+}

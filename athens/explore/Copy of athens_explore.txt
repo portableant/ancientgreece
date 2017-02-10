@@ -1,0 +1,225 @@
+title=Explore Athens
+
+&introText=This is Athens, one of the most powerful and influential cities in ancient Greece. It was home to great thinkers and artists and also to some of the most magnificent buildings in the world!
+Now you can discover the sights of the city for yourself. 
+
+
+&agoraTitle=The Agora
+
+&agoraGeneral=This busy place is the Agora, the marketplace and real heart of the city. It is the centre of all the business, trade and political activity in Athens. It is also a favourite spot for people to catch up on all the gossip of the day.
+
+&agoraMarket=The Agora contains a large market. You can buy or hire almost anything here: cooks, food, slaves, oil, wine, horses or flowers.
+
+&MarketTitle=Market
+
+&agoraSlaves=There are almost 100,000 slaves living in Athens. They are a very important part of society. Without the large number of slaves to do work in the city, citizens would have no time to do their <font color="#660000"><u><a href="javascript:openGlos('../../glossary/d/democratic.html','glos')">democratic</a></u></font> duties.
+
+&SlavesTitle=Slaves
+
+&agoraPrison=This is the prison. If someone is found guilty at one of the law courts they would be taken here to await their sentence. In Athens they do not imprison anyone as a punishment. If someone is found guilty they usually have to pay a fine. If they have done something really awful they are sentenced to death.
+This is where the philosopher Sokrates spent his last moments.  He was sentenced to death for 'neglecting the gods' and 'corrupting the young'.
+
+&PrisonTitle=Prison
+
+&agoraBouleuterion=The Bouleuterion is an important government building. The Council of Five Hundred meets here. It is the Council's job to prepare all the subjects that need to be discussed at the assembly. They also make sure that the decisions made by the assembly are carried out. 
+The members of the Council are chosen by a lottery. The Council members change every year. This stops any one person becoming too powerful.
+
+&BouleuterionTitle=The Bouleuterion
+
+&agoraTholos=This circular building is the Tholos. Inside, is the dining room for those serving in the council.  A small number of them also sleep here. There has to be someone on duty all the time in case any emergencies happen.
+
+&TholosTitle=The Tholos
+
+&AgoraRoyalStoa=This is the royal stoa. A stoa is a long covered hall that is open along one side. There are a number of stoas around the agora. People like to escape the heat of the sun in these buildings. 
+This stoa is the office of the 'royal' <i>archon</i>.  He is an important official who is responsible for all the religious laws of the city.
+
+&RoyalStoaTitle=The Royal Stoa
+
+&agoraPaintedStoa=The inside of this stoa, a long covered hall that is open on one side, is decorated with beautiful paintings by some of Athens' most famous artists. People come here to meet and chat or just escape the heat of the sun.  You can often see philosophers here, discussing their ideas with anybody who will listen.
+
+&paintedStoaTitle=The Painted Stoa
+ 
+&agoraHephaisteion=This beautiful temple is the Hephaisteion. It was built for the gods Athena and Hephaistos. Hephaistos is the god of the forge and this temple overlooks many <font color="#660000"><u><a href="javascript:openGlos('../../glossary/f/forges.html','glos')">forges</a></u></font> and workshops.  
+Athena is the patron of the city. Hephaistos too is important to Athens. He is the father of Erechtheus, who was an early king of the city.
+
+&HephaisteionTitle= The Hephaisteion
+
+&agoraLawcourts=This is a law court.  There are many of these around Athens. Athenians like to come and see the heated arguments that take place here. Hundreds, even thousands, of people pack in to the buildings to take part in the jury.
+
+&lawCourtsTitle=Law Courts
+
+&agoraMint=This is the bronze mint. Bronze coins are manufactured here and distributed by bankers in the Agora. The coins show Athena, the patron goddess of the city.  On the other side of the coin is an owl - another symbol of the goddess Athena.
+
+&mintTitle=The Bronze Mint
+
+&agoraMintCaption=This is a silver Athenian coin but the design is the same as Athenian bronze coins.
+
+&agoraHouse=The city of Athens is crowded with homes and workshops. Many different types of craftsmen live and work here.
+
+&houseTitle=Homes and Workshops
+
+&agoraHouseCaption=Vase showing a metal workshop, with two smiths stood beside a furnace
+
+&agoraPanathenaiacWay=This street which crosses the Agora is the Panathenaic Way. The procession which occurred every year during the Panathenaia followed this route through the Agora and on towards the Akropolis.
+
+&PanathenaiacWayTitle= The Panathenaiac Way
+
+&sacredGeneral=Athens has many sacred and holy places. From here you can see three of the most sacred places in the city.
+
+&sacredTitle=Sacred Places
+
+&assemblyTitle=The Assembly
+
+&acropolisTitle=The Acropolis
+
+&sacredAcropolis=This is the Acropolis. Acropolis means 'high city'. It is also one of the most sacred areas of Athens. The city's most important temples and sanctuaries are here.  During the Great Panathenaia everyone in Athens takes part in a procession. The procession starts at the city gate and ends on the Acropolis where a new robe is presented to the ancient statue of Athena.
+
+&theatreTitle=The Theatre
+
+&sacredTheatre=This is the theatre. It was built for the god Dionysos, the god of wine and high spirits.  Every year people come here to celebrate the City Dionysia, a festival to honour Dionysos. The festival begins with a great procession to the theatre. After that plays are performed for the whole of Athens.
+
+&sacredAsklepieion=This is the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/s/sanctuary.html','glos')">sanctuary</a></u></font> of Asklepios, the god of healing and son of the god Apollo. The sick come here to get better. They sleep overnight in the temple and the god appears to them in a dream.  He heals them or gives them advice on how to get better. The next morning one of the priests in the temple can help the sick person to carry out the god's advice.
+
+&sacredAsklepieionCaption=A marble head of Asklepios
+
+&asklepieionTitle=The Asklepieion
+
+&sacredAsklepieion2=People brought offerings with them for Asklepios. The offerings were models of the part of their body that was sore or diseased. Can you guess what might have been wrong with the people who left these objects at his sanctuary?
+
+&sacredAsklepieion3=This is a model of Asklepios. He is usually shown leaning on a staff around which a snake is coiled. In ancient Greece the snake was a symbol of rebirth and renewal.
+
+&pnyxtitle= the Pnyx
+
+&assemblyGeneral=This is the Pnyx, the home of the assembly of the people. Every male citizen can come here to discuss and vote on all the big decisions that affect the city. Citizens get paid to come here for the day.
+
+&sacredAssembly=For important decisions, at least 6000 people need to vote.  The state sometimes employs slaves to herd people from the Agora up to the Pnyx using a rope dipped in red paint. If someone attends the assembly with red paint on their clothes, they will not get paid for the day!
+
+&sacredDipylon=Athens is a walled city. You need to enter the city through one of its gates. This is one of the main entrance points to Athens, the Dipylon gate. The road from here leads to the Academy, one of the city's <font color="#660000"><u><a href="javascript:openGlos('../../glossary/g/gymnasia.html','glos')">gymnasia</a></u></font>.
+
+&dipylonTitle=Dipylon Gate
+
+&wallTitle=Walls
+
+&sacredWall=Like many other Greek cities, Athens is surrounded by walls. This is for protection in times of war. The walls of the city are made with bits of old buildings and rubble. This is because the Athenians wanted to rebuild the walls as quickly as possible after the Persians nearly destroyed the city. They had no materials though and very little money. So they used any materials they could get their hands on to build them.
+
+&kerameikosGeneral=This area, north-west of the Agora, is called the Kerameikos. It contains the potters' quarter, one of the main gates into the city and beyond the city walls, the cemetery.
+
+&kerameikosCaption=This vase shows a potter making a drinking cup.
+
+&kerameikosTitle=The Kerameikos
+
+&piraeusTitle=Piraeus
+
+&tradeshipTitle=Kantharos
+
+&warshiptitle=Zea
+
+&piraeusGeneral=This is Piraeus. This is a harbour town that is connected to the city of Athens by two long walls. It's very important to the life of Athens. Most of the grain and timber that Athens needs is shipped to here. It's also the home of the Athenian navy. It's a noisy and busy place, with many soldiers, merchants and foreigners.
+
+&piraeusExplore=Explore some of the goods that were shipped into and out of Piraeus.
+
+&import1=Nearly all of Attica's woodland had been destroyed by the 5th century BC. Athens had to rely on imported timber from Macedonia, Thrace and Southern Italy.
+
+&import1title=Timber
+
+&import2=The countryside around Athens could not produce enough grain to feed the people of Athens. The city relied on imported grain from countries such as Egypt, Thrace, Sicily and the lands around the Black Sea.
+
+&import2title=Burnt grain from a Greek pot
+
+&import3=Cloth in Greece was mostly made from wool or linen. Linen was made from imported <font color="#660000"><u><a href="javascript:openGlos('../../glossary/f/flax.html','glos')">flax</a></u></font> from Egypt. Cotton was known but not very common. From the 5th century BC onwards, silk was starting to appear in Athens.
+
+&import3title=A fragment of linen cloth
+
+&import4=Amber was highly valued in the ancient Greek world. The known sources of amber in the ancient world were in Denmark and the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/b/baltics.html','glos')">Baltics</a></u></font>. From here it was transported across Europe to the Black Sea, and then it was shipped to Athens.
+
+&import4title=An amber bead
+
+&import5=Tin was exported from modern day France. The Greek colony town of Massalia became a major centre in the trade of tin. Tin was used to make bronze which was important for weapons and tools.
+
+&import5title=Tin
+
+&import6=The slave trade was a thriving business at this time. Many slaves were captives or prisoners from wars and battles. Thrace and the countries around the Black Sea exported a great number of slaves.
+
+&import6title=A pot fragment showing a Thracian slave, employed as a nurse
+
+&import7=Grapes were grown in the Attic countryside.  There was certainly no shortage of wine in Athens. However, wine from Thasos and Chios was believed to be much better than the local variety. A great amount of wine was also imported from Rhodes and Knidos. This wine was not as highly prized, but it was very cheap!
+
+&import7title=An amphora for transporting wine
+
+&export1=Laurion, in the south of Attica, was a huge industrial area. The mines were state owned. The silver that was mined here was of great importance to Athens. It provided the money for the creation of the Athenian navy and some of the money for the rebuilding of the Acropolis.
+
+&export1title=A silver ingot
+
+&export2=Finely painted pottery was a popular export to many places around the Greek world. Athenian pottery was the most popular of all Greek pottery. 
+
+&export2title=A cup, or skyphos, made in Athens
+
+&export3=Olive oil was another of Athens' exports. It was used for many things in ancient Greece: on food, to rub on the skin, for medicine and to use in lamps. Olive oil was highly prized and expensive. The winner at the Panathenaic Games would receive large amphorae filled with oil as their prize.
+
+&export3title=This amphora would have contained olive oil. It was a winner’s prize at the Panathenaic Games.
+
+&sacredKerameikos=This smoky and dirty part of town is the Kerameikos, the potter's quarter. The smoke comes from the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/k/kilns.html','glos')">kilns</a></u></font> of the many workshops here. Athenian pottery has a very good reputation. It is exported to many places around the Mediterranean.
+
+&sacredCemetery=Many of the roads leading away from Athens are lined with the tombs of the dead.  The cemetery just outside the Dipylon gate houses the tombs of some of Athens' most famous citizens like Perikles. 
+
+&cemetaryExplore=Explore these objects from an ancient Greek cemetery.
+
+&cemeteryTitle=Cemetery
+
+&cemetaryGravestone=Athenian gravestones often showed a picture of the person who had died. Many give clues to the person's occupation. For example the figure in this gravestone holds a last, a model that shoemakers use for repairing or making shoes. 
+The two smaller figures probably represent his daughters. It was very common to have the dead person's family also represented on their gravestone.
+
+&cemetaryWoman=This is a figure of a mourning woman. It comes from the island of Rhodes and dates to around 650BC. She holds her hands to her head in her anguish. Her chest is covered with cuts. She has probably cut herself in her anguish.
+
+&cemetaryGravestone2=This gravestone shows a seated woman attended by a nurse holding a baby. It may be that this woman died in childbirth.
+
+&cemetaryLekythos=This is a lekythos, a flask for holding perfumed oil. It would probably have been left in a tomb as a funeral offering. This lekythos shows a funeral scene. A woman with her hair cut short to show mourning leans over a dead youth laid out on a bier. A bier is a frame that was used to carry the dead to the grave. The dead were wrapped in waxed cloth. A coin was placed in the mouth. This was to pay Charon, the ferryman who would take the dead over the River Styx to the underworld.
+
+&cemetaryGravetoys=This group of terracotta objects is from a young girl's grave. They may have been toys that the girl played with during her life. The doll has an epinetron (a thigh guard used when preparing wool for spinning), a pair of boots and a bowl that was used at marriage ceremonies.
+
+&wrestlingTitle=A vase showing wrestlers
+
+&academyWrestlers=Wrestling was one of the many sports that teenage boys were trained in. Physical fitness was very important in ancient Greece. Sports like wrestling were also useful in training boys to be good soldiers.
+
+&javelinTitle=A vase showing a javelin thrower
+
+&academyJavalin=This boy is throwing a javelin. Many of the skills that were used in playing sports were also useful in battle. How do you think being good at javelin might help an ancient Greek soldier?
+
+&scrapertitle=Boys Exercising
+
+&academyScraper=Boys exercised in the nude. They rubbed olive oil and sand onto their bodies to protect their skin.
+  
+&gymtitle=The Gymnasia
+
+&academyStudents=Physical training was not the only activity carried out at the gymnasium. In the shade of the colonnades surrounding the sports ground boys attended lessons. In 387 BC the philosopher Plato set up a school at the Academy. This was the first university.
+
+&academytitle= The Academy
+
+&academyGeneral=This is the Academy, one of Athens' <font color="#660000"><u><a href="javascript:openGlos('../../glossary/g/gymnasium.html','glos')">gymnasia</a></u></font>. Once boys reach the age of 12 they come here to exercise and learn sports. You can also come here to relax, chat or have a walk around one of the beautiful gardens. Some people like to snooze in the shade of the olive trees that grow here. These olive trees provide the oil for prizes in the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/p/panathenaicgames.html','glos')">Panathenaic games</a></u></font>.
+
+&backgroundAcademy=This is the Academy, one of our city's gymnasia. Once boys reach the age of 12 they come here to exercise and learn sports. You can also come here to relax, chat or have a walk around one of the beautiful gardens. Some people like to snooze in the shade of the olive trees that grow here. These olive trees provide the oil for prizes in the Panathenaic games.
+
+&backgroundWarship=This is Zea. This is one of Piraeus' naval harbours. This is where the great Athenian navy docks when not in battle. The navy is the best in Greece and has helped Athens defeat many powerful enemies.
+
+&backgroundTradeship=This is Kantharos. Merchant ships from all over the Greek world come here to trade. People also come here to catch ferries to other islands. A trip to Aigina costs a couple of <font color="#660000"><u><a href="javascript:openGlos('../../glossary/o/obols.html','glos')">obols</a></u></font>.
+
+&countrysideGeneral=People living in the surrounding area of Athens can also be citizens of the city. The area around Athens (called Attica) is very important. It provides most of the food for the people of the city.
+Attica is very hot in the summer and has much less rainfall than the rest of Greece. So the people of Athens still have to import some types of food.
+
+&countrysideTitle=The Countryside
+
+&countrysideCrops=Barley, vines and olives were the most common crops produced around Athens. 
+
+&countrysideCropsCaption=This vase shows people gathering olives. The men with the sticks are beating the olives down from the trees.
+
+&countrysideCropsTitle=Crops
+
+&countrysideAnimalsTitle=Animals
+
+&countrysidePloughTitle=Ploughing
+
+&countrysideAnimals=Sheep and goats were kept to produce cheese, milk and wool. 
+
+&countrysidePlough=Oxen were used by farmers for transport and ploughing.
+
+&countrysidePloughCaption=This vase shows oxen ploughing the fields.

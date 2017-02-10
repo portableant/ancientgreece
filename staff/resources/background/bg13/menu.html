@@ -1,0 +1,138 @@
+<!doctype html public "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Staff Room Menu</title>
+<link rel="stylesheet" type="text/css" href="../../sr_menu_bar.css">
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+var currentpage=1;
+
+if(document.images)
+{
+work2 = new Image();
+work1 = new Image();
+work3 = new Image();
+work2.src = "../../images/workb.gif";
+work1.src = "../../images/worka.gif";
+work3.src = "../../images/workc.gif";
+teach2 = new Image();
+teach1 = new Image();
+teach3 = new Image();
+teach2.src = "../../images/teachb.gif";
+teach1.src = "../../images/teacha.gif";
+teach3.src = "../../images/teachc.gif";
+}
+
+function change(imgDocID,imgObjName)
+{
+	if(document.images)
+	{
+	// check which page we are on!!
+		if(currentpage==1)
+		{
+		if(imgDocID=='teach')document.images[imgDocID].src = eval(imgObjName + ".src");
+		}
+		else
+		{
+		if(imgDocID=='work')document.images[imgDocID].src = eval(imgObjName + ".src");
+		}
+	}
+}
+
+function go(link)
+{
+	if(link==1)
+	{
+	change('work','work3');
+	currentpage=link;
+	change('teach','teach1');
+	top.Main.location.href="worksheet.html";
+	}
+
+	if(link==2)
+	{
+	change('teach','teach3');
+	currentpage=link;
+	change('work','work1');
+	top.Main.location.href="teachersheet.html";
+	}
+}
+
+function MM_preloadImages() {
+  if (document.images) {
+    var imgFiles = MM_preloadImages.arguments;
+    var preloadArray = new Array();
+    for (var i=0; i<imgFiles.length; i++) {
+      preloadArray[i] = new Image;
+      preloadArray[i].src = imgFiles[i];
+    }
+  }
+}
+
+function MM_swapImage() {
+  var i,j=0,objStr,obj,swapArray=new Array,oldArray=document.MM_swapImgData;
+  for (i=0; i < (MM_swapImage.arguments.length-2); i+=3) {
+    objStr = MM_swapImage.arguments[(navigator.appName == 'Netscape')?i:i+1];
+    if ((objStr.indexOf('document.layers[')==0 && document.layers==null) ||
+        (objStr.indexOf('document.all[')   ==0 && document.all   ==null))
+      objStr = 'document'+objStr.substring(objStr.lastIndexOf('.'),objStr.length);
+    obj = eval(objStr);
+    if (obj != null) {
+      swapArray[j++] = obj;
+      swapArray[j++] = (oldArray==null || oldArray[j-1]!=obj)?obj.src:oldArray[j];
+      obj.src = MM_swapImage.arguments[i+2];
+  } }
+  document.MM_swapImgData = swapArray;
+}
+
+MM_preloadImages('../../../images/back5.gif','../../../images/back6.gif')
+
+// -->
+
+</script>
+
+</head>
+<body>
+<div align="center">
+<table width="150" border="0" cellspacing="3" cellpadding="2" valign="TOP" cols="1">
+<tr><td>
+<a href="worksheet.html" target="Main"  onMouseOver="MM_swapImage('document.sheet','document.sheet','../../images/teachaloneb.gif')" onMouseOut="MM_swapImage('document.sheet','document.sheet','../../images/teachalonea.gif')">
+<img src="../../images/teachalonea.gif" width="146" height="59" border="0" name="sheet" alt="HTML version" vspace="20"></a>&nbsp;
+</td></tr>
+<tr><td valign="TOP"><p>This sheet is also available as:<br>
+<a href="bg13.doc" target="Main">MS Word&#153;</a> or <br><a href="bg13.pdf" target="Main">Adobe Acrobat&#153;</a></p>&nbsp;</td></tr>
+<tr><td valign="TOP"><b>related themes...</b>&nbsp;</td></tr>
+<tr><td class="chapter">&nbsp;Chapter</td></tr>
+<tr><td>
+<img src="../../../images/dot1.gif" hspace=5><a href="../../../sparta/resources.html" target="_top">Sparta<br></a>
+</td></tr>
+<tr><td class="topic" height="4">&nbsp;Topic</td></tr>
+<tr><td>
+<img src="../../../images/dot1.gif" hspace=5><a href="../../../topics/art.html" target="_top">Arts and Architecture<br></a>
+<img src="../../../images/dot1.gif" hspace=5><a href="../../../topics/dailylife.html" target="_top">Daily Life<br></a>
+<img src="../../../images/dot1.gif" hspace=5><a href="../../../topics/education.html" target="_top">Education<br></a>
+<img src="../../../images/dot1.gif" hspace=5><a href="../../../topics/knowledge.html" target="_top">Knowledge and Science<br></a>
+<img src="../../../images/dot1.gif" hspace=5><a href="../../../topics/legacy.html" target="_top">Legacy<br></a>
+<img src="../../../images/dot1.gif" hspace=5><a href="../../../topics/olympics.html" target="_top">Olympic Games<br></a>
+<img src="../../../images/dot1.gif" hspace=5><a href="../../../topics/politics.html" target="_top">Politics and Citizenship<br></a>
+<img src="../../../images/dot1.gif" hspace=5><a href="../../../topics/religion.html" target="_top">Religion<br></a>
+<img src="../../../images/dot1.gif" hspace=5><a href="../../../topics/sparta.html" target="_top">Sparta<br></a>
+<img src="../../../images/dot1.gif" hspace=5><a href="../../../topics/theatre.html" target="_top">Theatre<br></a>
+<img src="../../../images/dot1.gif" hspace=5><a href="../../../topics/trade.html" target="_top">Trade and Transport<br></a>
+<img src="../../../images/dot1.gif" hspace=5><a href="../../../topics/warfare.html" target="_top">Warfare<br></a>
+<img src="../../../images/dot1.gif" hspace=5><a href="../../../topics/General.html" target="_top">General<br></a>
+</td></tr>
+<tr><td class="keyelement" width="180">&nbsp;Key element</td></tr>
+<tr><td>
+</td></tr>
+<tr>
+<td><a href="../../../main.html" target="_top"  onMouseOver="MM_swapImage('document.right','document.right','../../../images/back6.gif')" onMouseOut="MM_swapImage('document.right','document.right','../../../images/back5.gif')">
+<img src="../../../images/back5.gif" width=135 height=28 border=0 name="right" alt="Back to Staff Room Home Page" vspace="20"></a></td>
+</tr>
+
+<tr><td valign="TOP"><BR><div class="copy"><p>&copy; The British Museum</p></div></td></tr>
+</table>
+</div>
+</BODY>
+</HTML>

@@ -1,0 +1,65 @@
+title=Gods and Festivals
+
+&fest1god=I am <font color="#000000">Zeus</font>, king of the gods. I am not connected to any particular city, but am worshipped by all Greeks.
+&fest1fes=This is held at Olympia. Athletes from all across Greece come to compete and to worship the god with their strength and speed.
+&fest1obj=This figurine is probably from Olympia. It shows an athlete pouring a libation, which is a liquid offered to the god.
+
+&fest2god=I am <font color="#000000">Dionysos</font>, god of wine and joyful emotions. I am often shown with satyrs, mythical creatures with the ears and tail of a horse.
+&fest2fes=This is held in Athens. Tragic and comic plays, and plays featuring satyrs, are performed as playwrights compete to win a prize. The plays express many human emotions.
+&fest2obj=This photo shows the theatre of Dionysos on the slopes of the Acropolis at Athens, where the plays of the City Dionysia were shown.
+
+&fest3god=I am <font color="#000000">Demeter</font>, goddess of the earth and farming. I am linked with the growth of crops and with the life of women.
+&fest3fes=This festival is celebrated across Greece. It is for women only and is held in autumn when seeds are sown for next year's harvest.
+&fest3obj=This scene of people dancing at an altar with Demeter to one side is thought to represent rituals from the Thesmophoria. 
+
+&fest4god=I am <font color="#000000">Athena</font>, goddess of war and wisdom and also crafts like weaving. I am the special god of many cities.
+&fest4fes=This is held in Athens. The main event is the presentation of a new robe, or peplos, specially woven for the statue of the goddess.
+&fest4obj=This is part of the Parthenon frieze. It shows the peplos and Athena seated on a stool. 
+
+&fest5god=I am <font color="#000000">Hera</font>, wife of Zeus and goddess of marriage.
+&fest5fes=This is held at Olympia and involves athletic contests. Unlike the male-only Olympic Games, held to honour Zeus, unmarried girls can compete at the Heraia.
+&fest5obj=This bronze bowl was given as a prize at games held in honour of Hera at Argos.
+
+&fest6god=I am <font color="#000000">Apollo</font>, god of music, poetry and healing.
+&fest6fes=This festival is held at Delphi. It includes athletic competitions but was originally a musical contest.
+&fest6obj=This photo shows the stadium at Delphi, where the athletic competitions would have been held.
+
+&fest7god=I am <font color="#000000">Poseidon</font>, god of the sea and brother of Zeus.
+&fest7fes=These games are held at the Isthmus of Corinth, a narrow strip of land separating the Aegean Sea from the Ionian Sea. They are second in importance to the Olympic Games.
+&fest7obj=This photo shows the starting mechanism from the stadium at Isthmia.
+
+&fest8god=I am <font color="#000000">Artemis</font>, goddess of hunting and wild animals. I am also linked with the change from childhood to adulthood.
+&fest8fes=This is celebrated in the region of Athens. As part of the worship of the goddess, girls act as she-bears.
+&fest8obj=Figures of girls like this one were dedicated at the sanctuary of Artemis at Brauron. Here, the girl holds a bird.
+
+&fest1fes_t=Olympic Games
+&fest1god_t=Zeus
+&fest1fes_m=Olympic athletes would have been in training for ten months before the Games and had trainers who advised them on diet, exercise and hygiene.<br><br>Many thousands of people attended the Games as the harvest was over and so people had more free time.<br><br>When the winners returned home, there would be feasting and parties and statues would be erected in the market place. 
+
+&fest2fes_t=City Dionysia
+&fest2god_t=Dionysos
+&fest2fes_m=During this festival, people attended the theatre of Dionysos to see plays performed from sunrise until sunset.<br><br>One of the most successful playwrights was Sophocles. He won first prize at the competition on eighteen occasions.<br><br>The festival also included a procession and sacrifices.
+
+&fest3fes_t=Thesmophoria
+&fest3god_t=Demeter
+&fest3fes_m=This festival was not only linked with the <font color="#ffff99"><u><a href="javascript:openGlos('../../glossary/f/fertile.html','glos')">fertility</a></u></font> of the land; it was also linked with the important role of women as mothers. The festival celebrated the importance of <font color="#ffff99"><u><a href="javascript:openGlos('../../glossary/c/citizen.html','glos')">citizen</a></u></font> women to their community, as they would give birth to citizen children.
+
+&fest4fes_t=Panathenaia
+&fest4god_t=Athena
+&fest4fes_m=The Panathenaia did not only involve a procession and the presentation of the <font color="#ffff99"><u><a href="javascript:openGlos('../../glossary/p/peplos.html','glos')">peplos</a></u></font>. Athletic contests were also part of the festival, including events like chariot racing, boxing and the long distance race, called the dolichos. There were also music and poetry competitions.
+
+&fest5fes_t=Heraia
+&fest5god_t=Hera
+&fest5fes_m=Like the Olympic Games, this festival was held every four years. It was organized by a group of sixteen women.<br><br>The main event was a running race between girls.
+
+&fest6fes_t=Pythian Games
+&fest6god_t=Apollo
+&fest6fes_m=These Games were held every four years from 582 BC onwards, although traditionally they were thought to have been established by Apollo when he killed a serpent, called Python, at Delphi.<br><br>Winners were awarded crowns of laurel.
+
+&fest7fes_t=Isthmian Games
+&fest7god_t=Poseidon
+&fest7fes_m=These Games were established in 581 BC and were held every two years. Traditionally, the Games were thought to have been reorganized by the Athenian hero, Theseus.<br><br>Winners were given crowns of pine or wild celery.
+
+&fest8fes_t=Brauronia
+&fest8god_t=Artemis
+&fest8fes_m=The bear was a <font color="#ffff99"><u><a href="javascript:openGlos('../../glossary/s/sacred.html','glos')">sacred</a></u></font> animal of Artemis. A myth connected with this festival tells of a bear killed by two brothers after it had attacked their sister. Artemis was furious, so the local people went to the oracle to ask how they could make up for this act. The oracle told them that girls must serve Artemis in her <font color="#ffff99"><u><a href="javascript:openGlos('../../glossary/s/sanctuary.html','glos')">sanctuary</a></u></font> at Brauron for a time and act as she-bears during rituals for the goddess.

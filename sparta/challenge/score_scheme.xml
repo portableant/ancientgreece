@@ -1,0 +1,67 @@
+<score_scheme>
+	<game_scores>
+		<wordsearch weighting="20">
+			<words weighting="50">
+				<maximum>
+					19
+				</maximum>
+			</words>
+			<time weighting="50">
+				<maximum>
+					180
+				</maximum>
+				<minimum>
+					30
+				</minimum>
+			</time>
+		</wordsearch>
+		<egg weighting="20" success="3">
+			<maximum>
+				22
+			</maximum>
+		</egg>
+		<dancing weighting="20" success="6">
+			<maximum>
+				12
+			</maximum>
+		</dancing>
+		<cheese weighting="20" success="10">
+			<maximum>
+				31
+			</maximum>
+		</cheese>
+		<hunting weighting="20">
+			<maximum>
+				50
+			</maximum>
+		</hunting>
+		<marching weighting="20" success="6">
+			<maximum>
+				10
+			</maximum>
+		</marching>
+	</game_scores>
+	<bandings>
+		<preliminary>
+			<band minimum="0">
+				marching_frame
+			</band>
+			<band minimum="50">
+				hunting_frame
+			</band>
+		</preliminary>
+		<final>
+			<band minimum="0">
+				worst_frame
+			</band>
+			<band minimum="50">
+				average_frame
+			</band>
+			<band minimum="70">
+				best_frame
+			</band>
+		</final>
+	</bandings>
+
+
+</score_scheme>

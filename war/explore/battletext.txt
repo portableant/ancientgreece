@@ -1,0 +1,136 @@
+	Usenewlineforeachvar_Str=true
+&----------------------------------------------_str=-
+&title_Str=War
+&hints_Arr_0_Str=Spartans
+&hints_Arr_1_Str=Peloponnesians
+&hints_Arr_2_Str=Athenians
+&hints_Arr_3_Str=Other-Loyalist-Greeks
+&hints_Arr_4_Str=Persian-Infantry
+&hints_Arr_5_Str=Persian-Cavalry
+&hints_Arr_6_Str=Greeks-on-the-Persian-side
+&----------------------------------------------_str=-
+&hintTintRed_Str=50
+&hintTintGreen_Str=0
+&hintTintBlue_Str=0
+&----------------------------------------------_str=-
+&flagColor_Arr_0_Str=0xFF0000
+&flagColor_Arr_1_Str=0xFFFF00
+&flagColor_Arr_2_Str=0x00FF00
+&flagColor_Arr_3_Str=0xFF00FF
+&flagColor_Arr_4_Str=0x00FFFF
+&flagColor_Arr_5_Str=0x0000FF
+&flagColor_Arr_6_Str=0x0000FF
+&----------------------------------------------_str=-
+&----------------------------------------------_str=-
+&displayOnSides_Arr_0_Str=left
+&displayOnSides_Arr_1_Str=left
+&displayOnSides_Arr_2_Str=left
+&displayOnSides_Arr_3_Str=left
+&displayOnSides_Arr_4_Str=right
+&displayOnSides_Arr_5_Str=right
+&displayOnSides_Arr_6_Str=right
+&----------------------------------------------_str=-
+&Spartans0Text_Arr_0_Str=<p align="center"><b><font size="18">Spartans</font></b></p><font size="2"><br></font>The Spartans were chosen to lead the Greek forces in the battle. <br>On the battlefield, they held the right <font color="#660000"><u><a href="javascript:openGlos('../../glossary/f/flank.html','glos')">flank</a></u></font>, which was a position of honour. Their forces were made up of heavily-armed foot soldiers, called hoplites. About half of these hoplites were Spartans and half were from the Perioikoi. The Perioikoi lived in the region of Sparta but were not <font color="#660000"><u><a href="javascript:openGlos('../../glossary/c/citizen.html','glos')" title="glossary term in a new window">citizens</a></u></font> of Sparta. There were perhaps 5000 Spartans and 5000 Perioikoi on the battlefield.
+&Spartans1Text_Arr_0_Str=<p align="center"><b><font size="18">Spartans</font></b></p><font size="2"><br></font>These are Spartan <font color="#660000"><u><a href="javascript:openGlos('../../glossary/h/hoplite.html','glos')" title="glossary term in a new window">hoplites</a></u></font>. They hold the most important piece of hoplite equipment, the shield. It is called a hoplon and it is from<br>this that hoplites get their name. The shield was up to one metre across and was held on the left forearm. This meant that the shield only covered one half of the body. This problem was overcome by the rigid formation of hoplite fighting. 
+&Spartans1Text_Arr_1_Str=Each file, or column, of soldiers doubled up<BR>when in battle, so that their shields<BR>overlapped. This would protect them from <br>the spears of the enemy.<BR><BR>Click on the Greek Soldiers to see <br>them in open and closed battle formation.               
+&Spartans2Text_Arr_0_Str=<p align="center"><b><font size="18">Spartans</font></b></p><font size="2"><br></font>This is a Spartan hoplite. All hoplites wore similar armour. This consisted of a helmet which sometimes had a horse-hair crest; a linen or bronze <font color="#660000"><u><a href="javascript:openGlos('../../glossary/c/cuirass.html','glos')" title="glossary term in a new window">cuirass</a></u></font> to protect the chest, and <font color="#660000"><u><a href="javascript:openGlos('../../glossary/g/greaves.html','glos')" title="glossary term in a new window">greaves</a></u></font>, which were worn to protect the lower leg. This meant that the thighs and neck were exposed and so vulnerable to injury.
+&----------------------------------------------_str=-
+&Peloponnesians0Text_Arr_0_Str=<p align='center'><b><font size='18'>Peloponnesians</font></b></p><font size="2"><br></font>The <font color="#660000"><u><a href="javascript:openGlos('../../glossary/p/peloponnesians.html','glos')">Peloponnesians</a></u></font> came from a number of city states and were allied to the Spartans in the Peloponnesian League. This meant that when Sparta agreed to go to war, her <font color="#660000"><u><a href="javascript:openGlos('../../glossary/a/ally.html','glos')">allies</a></u></font> had to send forces also. These forces were made up of <font color="#660000"><u><a href="javascript:openGlos('../../glossary/h/hoplite.html','glos')">hoplites</a></u></font> and were placed in the middle of the Greek line.
+&Peloponnesians1Text_Arr_0_Str=<p align='center'><b><font size='18'>Peloponnesians</font></b></p><font size="2"><br></font>These are Peloponnesian hoplites. They hold the weapons typical <br>of a hoplite soldier. One of their weapons was a short sword, <br>which could be used for close range fighting, but the hoplite's <br>main weapon was the spear.
+&Peloponnesians1Text_Arr_1_Str=Click on the Greek Soldiers to see <br>them in open and closed battle formation.  
+&Peloponnesians2Text_Arr_0_Str=<p align='center'><b><font size='18'>Peloponnesians</font></b></p><font size="2"><br></font>This is a Peloponnesian hoplite. All hoplites wore similar armour. The helmet worn by this soldier is called a Corinthian helmet. This type of helmet has a nose guard and fixed cheek guards, unlike other types of helmet. The Corinthian helmet was the most common type of helmet and was worn throughout Greece.
+&----------------------------------------------_str=-
+&Athenians0Text_Arr_0_Str=<p align='center'><b><font size='18'>Athenians</font></b></p><font size="2"><br></font>The Athenians had asked for the help of Sparta and her <font color="#660000"><u><a href="javascript:openGlos('../../glossary/a/ally.html','glos')">allies</a></u></font> to defeat the Persians, who had attacked Athens.<br><font size="2"><br></font>The Athenian forces were on the left <font color="#660000"><u><a href="javascript:openGlos('../../glossary/f/flank.html','glos')">flank</a></u></font> of the Greek army. <font color="#660000"><u><a href="javascript:openGlos('../../glossary/h/herodotus.html','glos')">Herodotus</a></u></font> writes that to be on the flank was a position of honour. <br><font size="2"><br></font>Their force was possibly made up of 8000 <font color="#660000"><u><a href="javascript:openGlos('../../glossary/h/hoplite.html','glos')">hoplites</a></u></font> and also included archers.
+&Athenians1Text_Arr_0_Str=<p align='center'><b><font size='18'>Athenians</font></b></p><font size="2"><br></font>These are Athenian hoplites. They hold the weapons typical of a hoplite soldier. Their main weapon was the spear. This was two to three metres long with a bronze or iron point. The hoplites would thrust this at the enemy whilst being protected by a wall of overlapping shields. The hoplites would then push against the opposing army, hoping to break up their front line. 
+&Athenians1Text_Arr_1_Str=Click on the Greek Soldiers to see <br>them in open and closed battle formation.  
+&Athenians2Text_Arr_0_Str=<p align='center'><b><font size='18'>Athenians</font></b></p><font size="2"><br></font>This is an Athenian hoplite. All hoplites wore similar armour.The helmet worn by this soldier is of Chalcidian type, without a nose-guard and with movable cheek-guards. However, many Athenians soldiers would have worn the Corinthian helmet.
+&----------------------------------------------_str=-
+&Other-Loyalist-Greeks0Text_Arr_0_Str=<p align='center'><b><font size='18'>Other Loyalist Greeks</font></b></p><font size="2"><br></font>In addition to the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/p/peloponnesians.html','glos')">Peloponnesians</a></u></font> and Athenians, there were other Greek cities that had sent soldiers. These included the city of Plataia itself, which was an <font color="#660000"><u><a href="javascript:openGlos('../../glossary/a/ally.html','glos')">ally</a></u></font> of Athens. Plataia sent 600 <font color="#660000"><u><a href="javascript:openGlos('../../glossary/h/hoplite.html','glos')">hoplites</a></u></font>.
+&Other-Loyalist-Greeks1Text_Arr_0_Str=<p align='center'><b><font size='18'>Other Loyalist Greeks</font></b></p><font size="2"><br></font>These are Greek hoplites from Plataia. The close formation they <br>are standing in is called a phalanx. When battle began, each file, <br>or column, of soldiers doubled up so that the lines of soldiers <br>were closer together and could then overlap their shields. Most phalanxes were between 8 and 16 men deep. The phalanxes of Greek hoplites would look like a series of rectangles positioned across the battlefield.
+&Other-Loyalist-Greeks1Text_Arr_1_Str=Click on the Greek Soldiers to see <br>them in open and closed battle formation.  
+&Other-Loyalist-Greeks2Text_Arr_0_Str=<p align='center'><b><font size='18'>Other Loyalist Greeks</font></b></p><font size="2"><br></font>This is a Greek hoplite from Plataia. All hoplites wore similar armour, which they had to buy themselves. Thus hoplites were men of reasonable wealth. His breastplate, also called a <font color="#660000"><u><a href="javascript:openGlos('../../glossary/c/cuirass.html','glos')" title="glossary term in a new window">cuirass</a></u></font>, is made of bronze, which was more expensive than the more common linen cuirass.It has front and back plates which are held together at the sides by leather straps.
+&----------------------------------------------_str=-
+&Persian-Infantry0Text_Arr_0_Str=<p align='center'><b><font size='18'>Persian Infantry</font></b></p><font size="2"><br></font>The Persian forces consisted of infantry, or foot soldiers, and <font color="#660000"><u><a href="javascript:openGlos('../../glossary/c/cavalry.html','glos')">cavalry</a></u></font>. The army came from different parts of the Persian empire, so there were some differences in the appearance of the soldiers.There were maybe 25,000 foot soldiers, but these were not as well-equipped as the Greek foot soldiers, the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/h/hoplite.html','glos')">hoplites</a></u></font>. 
+&Persian-Infantry1Text_Arr_0_Str=<p align='center'><b><font size='18'>Persian Infantry</font></b></p><font size="2"><br></font>These are Persian infantry, or foot soldiers. Their weapons <br>include bows, short spears, axes and daggers hung from their <br>belts. Unlike the Greek hoplites, with their heavy shields, these<br>soldiers had <font color="#660000"><u><a href="javascript:openGlos('../../glossary/w/wicker.html','glos')">wicker</a></u></font> shields and were less well protected from<br>spear thrusts than the Greek soldiers. 
+&Persian-Infantry2Text_Arr_0_Str=<p align='center'><b><font size='18'>Persian Infantry</font></b></p><font size="2"><br></font>This is a Persian foot soldier. Unlike the Greek soldiers, he doesn't wear a helmet, but just a floppy cloth or leather cap. He is wearing a tunic and trousers, which were typical of the eastern style of dress. It seems that most of the Persian forces wore no substantial armour, but some may have worn <font color="#660000"><u><a href="javascript:openGlos('../../glossary/s/scalearmour.html','glos')">scale armour</a></u></font> under their clothing.
+&----------------------------------------------_str=-
+&Persian-Cavalry0Text_Arr_0_Str=<p align='center'><b><font size='18'>Persian Cavalry</font></b></p><font size="2"><br></font>The Persian forces consisted of infantry, or foot soldiers, and <font color="#660000"><u><a href="javascript:openGlos('../../glossary/c/cavalry.html','glos')">cavalry</a></u></font>. There were possibly 5000 cavalry, who made the first attack of the battle on the Greek forces. They inflicted heavy losses on the Greeks until they were forced to withdraw when their commander was killed.
+&Persian-Cavalry1Text_Arr_0_Str=<p align='center'><b><font size='18'>Persian Cavalry</font></b></p><font size="2"><br></font>These are Persian <font color="#660000"><u><a href="javascript:openGlos('../../glossary/c/cavalry.html','glos')">cavalrymen</a></u></font>. They carry bows and also javelins to throw at enemy soldiers. They don't carry shields. <font color="#660000"><u><a href="javascript:openGlos('../../glossary/h/herodotus.html','glos')">Herodotus</a></u></font> says that they were the only part of the Persian army that was not thoroughly defeated by the Greeks.
+&Persian-Cavalry2Text_Arr_0_Str=<p align='center'><b><font size='18'>Persian Cavalry</font></b></p><font size="2"><br></font>This is a Persian cavalryman. He is dressed in a similar way to the foot soldiers, with a tunic and trousers. It is suggested that cavalrymen wore more body armour than foot soldiers. They probably wore a special <font color="#660000"><u><a href="javascript:openGlos('../../glossary/c/cuirass.html','glos')" title="glossary term in a new window">cuirass</a></u></font> with a high collar to protect the<br>neck.
+&----------------------------------------------_str=-
+&Greeks-on-the-Persian-side0Text_Arr_0_Str=<p align='center'><b><font size='18'>Greeks on the Persian side</font></b></p><font size="2"><br></font>Not all the Greeks fought against the Persians, some fought on the Persian side and supported the Persian invasion. These included the Thebans who provided the Persians with further infantry and <font color="#660000"><u><a href="javascript:openGlos('../../glossary/c/cavalry.html','glos')">cavalry</a></u></font>.
+&Greeks-on-the-Persian-side1Text_Arr_0_Str=<p align='center'><b><font size='18'>Greeks on the Persian side</font></b></p><font size="2"><br></font>These are Greek <font color="#660000"><u><a href="javascript:openGlos('../../glossary/h/hoplite.html','glos')">hoplites</a></u></font> fighting on the Persian side. They carry the same sort of weapons and equipment as the other Greeks, most importantly the shield and the long spear.
+&Greeks-on-the-Persian-side2Text_Arr_0_Str=<p align='center'><b><font size='18'>Greeks on the Persian side</font></b></p><font size="2"><br></font>This is a Theban hoplite. Like all hoplites he is weighed down by about 75 pounds (34 kg) of equipment. Had he not fought as part of a formation of soldiers, he would have been a slow moving and easy target.
+&----------------------------------------------_str=-
+&Spartansinfo_Arr_0_Str=<p align='center'><font size='14'><b>A vase showing a hoplite carrying his shield</b></font></p>
+&Spartansinfo_Arr_1_Str=<p align='center'><font size='14'><b>Bronze statuette of a soldier wearing a helmet, breastplate and greaves. This type of breastplate, called a bell cuirass, was common until the mid-6th century</b></font></p>
+&Peloponnesiansinfo_Arr_0_Str=<p align='center'><font size='14'><b>A gem showing the goddess of victory with a trophy of weapons, including a sword, spear and helmet.</b></font></p>
+&Peloponnesiansinfo_Arr_1_Str=<p align='center'><font size='14'><b>A bronze helmet of Corinthian type.</b></font></p>
+&Atheniansinfo_Arr_0_Str=<p align='center'><font size='14'><b>A bronze spear-head</b></font></p>
+&Atheniansinfo_Arr_1_Str=<p align='center'><font size='14'><b>A bronze helmet of Chalcidian type</b></font></p>
+&Other-Loyalist-Greeksinfo_Arr_0_Str=<p align='center'><font size='14'><b>A carved frieze showing lines of Greek soldiers marching with their shields close together.</b></font></p>
+&Other-Loyalist-Greeksinfo_Arr_1_Str=<p align='center'><font size='14'><b>A bronze muscled cuirass or breastplate.</b></font></p>
+&Persian-Infantryinfo_Arr_0_Str=<p align='center'><font size='14'><b>A gem engraved with a picture of a Persian leaning on a spear.</b></font></p>
+&Persian-Infantryinfo_Arr_1_Str=<p align='center'><font size='14'><b>A vase showing a Persian in tunic and trousers. As it was made by an Athenian, the artist has made the Persian look rather silly.</b></font></p>
+&Persian-Cavalryinfo_Arr_0_Str=<p align='center'><font size='14'><b>figurine of a Persian horseman.</b></font></p>
+&Persian-Cavalryinfo_Arr_1_Str=<p align='center'><font size='14'><b>A gem engraved with a picture of a Persian horseman, wearing trousers and tunic, pursuing a chariot</b></font></p>
+&Greeks-on-the-Persian-sideinfo_Arr_0_Str=<p align='center'><font size='14'><b>A vase showing a hoplite with his shield and long spear.</b></font></p>
+&Greeks-on-the-Persian-sideinfo_Arr_1_Str=<p align='center'><font size='14'><b>A pair of bronze greaves, or leg-guards, worn by hoplite soldiers.</b></font></p>
+&----------------------------------------------_str=-
+&SpartansPic_Arr_1_Str=warriors0.swf
+&SpartansPic_Arr_2_Str=soldier0.swf
+&SpartansPic_Arr_3_Str=spartan_obj1_sm.swf
+&SpartansPic_Arr_4_Str=spartan_obj1_lg.swf
+&SpartansPic_Arr_5_Str=spartan_obj2_sm.swf
+&SpartansPic_Arr_6_Str=spartan_obj2_lg.swf
+&SpartansPic_Arr_7_Str=tweenpos5.swf
+&----------------------------------------------_str=-
+&PeloponnesiansPic_Arr_1_Str=warriors1.swf
+&PeloponnesiansPic_Arr_2_Str=soldier1.swf
+&PeloponnesiansPic_Arr_3_Str=pelop_obj1_sm.swf
+&PeloponnesiansPic_Arr_4_Str=pelop_obj1_lg.swf
+&PeloponnesiansPic_Arr_5_Str=pelop_obj2_sm.swf
+&PeloponnesiansPic_Arr_6_Str=pelop_obj2_lg.swf
+&PeloponnesiansPic_Arr_7_Str=tweenpos5.swf
+&----------------------------------------------_str=-
+&AtheniansPic_Arr_1_Str=warriors2.swf
+&AtheniansPic_Arr_2_Str=soldier2.swf
+&AtheniansPic_Arr_3_Str=athen_obj1_sm.swf
+&AtheniansPic_Arr_4_Str=athen_obj1_lg.swf
+&AtheniansPic_Arr_5_Str=athen_obj2_sm.swf
+&AtheniansPic_Arr_6_Str=athen_obj2_lg.swf
+&AtheniansPic_Arr_7_Str=tweenpos5.swf
+&----------------------------------------------_str=-
+&Other-Loyalist-GreeksPic_Arr_1_Str=warriors3.swf
+&Other-Loyalist-GreeksPic_Arr_2_Str=soldier3.swf
+&Other-Loyalist-GreeksPic_Arr_3_Str=frieze_sm.swf
+&Other-Loyalist-GreeksPic_Arr_4_Str=frieze_lg.swf
+&Other-Loyalist-GreeksPic_Arr_5_Str=loy_obj2_sm.swf
+&Other-Loyalist-GreeksPic_Arr_6_Str=loy_obj2_lg.swf
+&Other-Loyalist-GreeksPic_Arr_7_Str=tweenpos5.swf
+&----------------------------------------------_str=-
+&Persian-InfantryPic_Arr_1_Str=warriors4.swf
+&Persian-InfantryPic_Arr_2_Str=soldier4.swf
+&Persian-InfantryPic_Arr_3_Str=pers_obj1_sm.swf
+&Persian-InfantryPic_Arr_4_Str=pers_obj1_lg.swf
+&Persian-InfantryPic_Arr_5_Str=pers_obj2_sm.swf
+&Persian-InfantryPic_Arr_6_Str=pers_obj2_lg.swf
+&----------------------------------------------_str=-
+&Persian-CavalryPic_Arr_1_Str=warriors5.swf
+&Persian-CavalryPic_Arr_2_Str=soldier5.swf
+&Persian-CavalryPic_Arr_3_Str=pers_cav_obj1_sm.swf
+&Persian-CavalryPic_Arr_4_Str=pers_cav_obj1_lg.swf
+&Persian-CavalryPic_Arr_5_Str=pers_cav_obj2_sm.swf
+&Persian-CavalryPic_Arr_6_Str=pers_cav_obj2_lg.swf
+&----------------------------------------------_str=-
+&Greeks-on-the-Persian-sidePic_Arr_1_Str=warriors6.swf
+&Greeks-on-the-Persian-sidePic_Arr_2_Str=soldier6.swf
+&Greeks-on-the-Persian-sidePic_Arr_3_Str=greek_per_obj1_sm.swf
+&Greeks-on-the-Persian-sidePic_Arr_4_Str=greek_per_obj1_lg.swf
+&Greeks-on-the-Persian-sidePic_Arr_5_Str=greek_per_obj2_sm.swf
+&Greeks-on-the-Persian-sidePic_Arr_6_Str=greek_per_obj2_lg.swf
+&----------------------------------------------_str=-
+
+
+&end_Str=end
+

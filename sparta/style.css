@@ -1,0 +1,67 @@
+ body{
+	background-color: #F3D7BA;
+	color: black;
+}
+ :link {
+	color: #840000;
+	background-color : transparent;
+}
+ :visited {
+	color: #840000;
+	background-color : transparent;
+}
+ :active {
+	color: Red;
+	background-color : transparent;
+}
+td {
+	font-family: helvetica,arial,sans-serif;
+	color : White;
+}
+H3 {
+	font-family : helvetica,arial,sans-serif;
+	text-align : center;
+	color:white;
+}
+.title {
+	font-family : "Albertus Medium",helvetica,arial,sans-serif;
+	color : #EBE8E0;
+}
+.main{
+	background-color : C26219;
+	color : #EBE8E0;
+}
+.caption {
+	font-size : 75%;
+	text-align : center;
+	color : #cccccc;
+}
+.small {
+	font-size : 75%;
+}
+.large {
+	font-size : 125%;
+}
+.text{
+	font-family: helvetica,arial,sans-serif;
+	color : White;
+}
+.print{
+	display : none;
+}
+#topLeft{
+	position:absolute;
+	left:0;
+	top:0;
+}
+table.w502 {
+	width : 502px;
+	background-color : #C26219;
+	display : block;
+}
+table.w500 {
+	width : 500px;
+	background-color : #C26219;
+	display : block;
+}
+

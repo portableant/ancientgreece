@@ -1,0 +1,52 @@
+ body{
+	background-color: White;
+	color: Black;
+}
+ :link {
+	color: Purple;
+	background-color : transparent;
+	text-decoration : none;
+}
+ :visited {
+	color: Purple;
+	background-color : transparent;
+	text-decoration : none;
+}
+ :active {
+	color: Purple;
+	background-color : transparent;
+	text-decoration : none;
+}
+td {
+	font-family: helvetica,arial,sans-serif;
+	color : Black;
+}
+td.main{
+
+}
+H3 {
+	font-family : helvetica,arial,sans-serif;
+	text-align : center;
+	color:black;
+}
+.title {
+	font-family : "Albertus Medium",helvetica,arial,sans-serif;
+	color : #000000;
+}
+.caption {
+	font-size : 75%;
+	text-align : center;
+	color : #333333;
+}
+.pad{
+	padding-left : 20px;
+	padding-right : 20px;
+	line-height : 120%;
+}
+.noprint{
+	display : none;
+}
+.print{
+	font-weight : bold;
+	color : Maroon;
+}

@@ -1,0 +1,2 @@
+&optionlength=2&instructions0=<b>XXXExplore the ancient shipwreck. You can ask an expert for information on the objects you find. There's also a book on amphora stamps which may help you find out where certain things come from.</b>
+&instructions1=<b>XXXThen try to plot the ship's route on a map.  Remember it would be much easier and cheaper to collect cargo from the nearest port possible.  Travelling long distances when it was not necessary made trips more expensive and traders would therefore make less money.</b>

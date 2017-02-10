@@ -1,0 +1,1 @@
+_magVar1=1.5&_magVar3=4&image1=assets/shep_sm.swf&image2=assets/shep_lg.swf&hex=0x333333&max_zoom=300&DATA=l_oaded

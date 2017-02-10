@@ -1,0 +1,67 @@
+ body{
+	background-color: #000000;
+	color: #face39;
+	background-image : url(story/images/bg_black_sm.jpg);
+}
+ :link {
+	color: #660000;
+	background-color : transparent;
+}
+ :visited {
+	color: #660000;
+	background-color : transparent;
+}
+ :active {
+	color: Red;
+	background-color : transparent;
+}
+td {
+	font-family: helvetica,arial,sans-serif;
+	color : Black;
+}
+H3 {
+	font-family : helvetica,arial,sans-serif;
+	text-align : center;
+	color: Black;
+}
+.title {
+	font-family : "Albertus Medium",helvetica,arial,sans-serif;
+	color : #000000;
+}
+.main{
+	background-color : #E7A93C;
+}
+.caption {
+	font-size : 75%;
+	text-align : center;
+	color : #cccccc;
+}
+.small {
+	font-size : 75%;
+}
+.large {
+	font-size : 125%;
+}
+.text{
+	font-family: helvetica,arial,sans-serif;
+	color : White;
+}
+.print{
+	display : none;
+}
+#topLeft{
+	position:absolute;
+	left:0;
+	top:0;
+}
+table.w502 {
+	width : 502px;
+	background-color : #b8714a;
+	display : block;
+}
+table.w500 {
+	width : 500px;
+	background-color : #82350b;
+	display : block;
+}
+

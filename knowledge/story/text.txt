@@ -1,0 +1,23 @@
+intro=<font face="Arial, Helvetica, sans-serif" size="14">Plato was a famous Greek <font color="#ffff99"><u><a href="javascript:openGlos('../../glossary/p/philosopher.html','glos')" title="glossary term in a new window">philosopher</a></u></font> who has had a great influence on Western thought and civilization. Follow one of his thought-provoking arguments here, in which he encourages us to think intelligently for ourselves.</font>
+
+&page1=<font face="Arial, Helvetica, sans-serif" size="14">Imagine a group of people sitting in the gloom of a cave. They are prisoners, bound by their hands and feet, unable to move freely.All they can do is sit in a line and look straight ahead at the wall of the cave.</font>
+
+&page2=<font face="Arial, Helvetica, sans-serif" size="14">Now imagine that you are one of those <font color="#ffff99"><u><a href="javascript:openGlos('../../glossary/s/shackled.html','glos')" title="glossary term in a new window">shackled</a></u></font> prisoners. However, you do not know you are a prisoner because you were born in the cave and it is the only life you have ever known. Because of the darkness of the cave, you cannot even see the other prisoners - although you know they are there, because you can talk to each other.</font> 
+
+&page3=<font face="Arial, Helvetica, sans-serif" size="14">Every day on the cave wall in front of you, you see shapes pass back and forth. You and your fellow prisoners recognise these different shapes and give them names such as 'cat' or 'tree' or 'girl'. Amongst yourselves, you see who can be the best at telling which image will come along next.You are satisfied with your life because you cannot imagine anything different.</font> 
+
+&page4=<font face="Arial, Helvetica, sans-serif" size="14">But unknown to you, your life in the cave is not a full picture of the truth. If we look behind you and your fellow prisoners, we can see that a walled roadway passes through the cave. People carry life-sized cut-outs of objects such as 'cats', 'trees' or 'girls' along this path.</font> 
+
+&page5=<font face="Arial, Helvetica, sans-serif" size="14">If we pull back further still, we can see a fire burning away fiercely. This fire creates shadows of the life-sized cut-outs that are carried across in front of it. It is these shadows that you and the other prisoners are watching on the cave wall. What you think is true, is actually only a flat, shadowy copy of reality.</font>
+
+&page6=<font face="Arial, Helvetica, sans-serif" size="14">Now, imagine you are suddenly freed from your chains. You stand up and turn around for the first time... You cannot understand what you are seeing! A bright light that dazzles you! Clear objects and people that before you had only seen in gloomy shadows!</font>
+
+&page7=<font face="Arial, Helvetica, sans-serif" size="14">Confused, you walk past the fire and the walled roadway, and towards another light - and you find yourself outside in fresh air and daylight. The darkness of the cave has been left behind and for the first time in this new, outside world, you see colours and shapes.  How terrible to have only seen shadows before!</font>
+
+&page8=<font face="Arial, Helvetica, sans-serif" size="14">Now your eyes have adjusted to the light, you look up and see the sun shining brightly in the sky. You begin to think - if the fire in the cave was responsible for creating those shadows on the wall, then it must be the sun that brings this better world to life.</font> 
+
+&page9=<font face="Arial, Helvetica, sans-serif" size="14">Realising that you have been living a lie and have only been watching a shadow-play, you rush back to the other prisoners to tell them the truth. But they laugh at you and do not believe what you say! How can they? They have never seen anything but the inside of the cave and the shadows projected on the wall.</font>  
+
+
+&page10=<font face="Arial, Helvetica, sans-serif" size="14">"...So you see my young student, we must strive hard to look beyond what seems <font color="#ffff99"><u><a href="javascript:openGlos('../../glossary/o/obvious.html','glos')" title="glossary term in a new window">obvious</a></u></font> at first. Knowledge and truth comes only with effort - like having to clamber out of a rocky cave, perhaps to be dazzled by the light. There are greater truths and ideas still to be found...and once you find this 'outside world,' you will never want to go back to live the lie of life imprisoned in the shadows..."</font> 
+

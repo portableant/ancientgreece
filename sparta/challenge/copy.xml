@@ -1,0 +1,89 @@
+<copy>
+	<first_test>
+		<![CDATA[You have passed the first test of your young life! The elders consider that you are strong and healthy. Had you been thought weak you would have been killed. You will now be raised by your family until you are 7.]]>
+	</first_test>
+	<now_seven>
+		<![CDATA[You are now 7. You have begun your education. You must learn a range of skills to progress through the agoge. These include reading, writing, dancing and playing music as well as physical exercise and endurance.]]>
+	</now_seven>
+	<reading_instructions>
+		<![CDATA[<B>You must complete a reading task. <BR/><BR/>You have been given a Greek text to 'decode'. <BR/><BR/>You must find all the <font color='#ff0000'>red</font> words that appear at the top in the text. When you think you have found the red word in the text, drag the cursor along it. <BR/><BR/>You must find all the words from the list to find out what the text means.</B>]]>
+	</reading_instructions>
+	<reading_success>
+		<![CDATA[<B>Well done, you've made sense of this text.</B>]]>
+	</reading_success>
+	<reading_failure>
+		<![CDATA[<B>You need to try harder with your word work!</B>]]>
+	</reading_failure>
+	<egg_success>
+		<![CDATA[<B>Well done, you won't go hungry for several days!</B>]]>
+	</egg_success>
+	<egg_failure>
+		<![CDATA[<B>You haven't managed to steal many eggs - you're going to be hungry!</B>]]>
+	</egg_failure>
+	<music_dancing>
+		<![CDATA[<B>You are now 12 and have moved to the next stage of the agoge. Life is tougher now: to move up from one class to the next you have to complete various tests of your endurance and strength. However, you continue to learn music and dancing.</B>]]>
+	</music_dancing>
+	<dancing_instructions>
+		<![CDATA[<B>You must now complete a dancing task. <BR/><BR/>You must learn a number of 'poses' that are used in dances. <BR/><BR/>You and your fellow students must copy the poses held by the teacher. <BR/><BR/>Use the arrow keys to move.</B>]]>
+	</dancing_instructions>
+	<dancing_success>
+		<![CDATA[Well done, you have shown good coordination skills - important for a soldier!]]>
+	</dancing_success>
+	<dancing_failure>
+		<![CDATA[You need to practise your coordination skills!]]>
+	</dancing_failure>
+	<cheese_instructions1>
+		<![CDATA[<B>You must complete a test to move up to the next class. You must collect as many cheeses from the altar of Artemis Orthia as possible, but you must avoid the whips of the older students!</B>]]>
+	</cheese_instructions1>
+	<cheese_instructions2>
+		<![CDATA[<B>You can only carrry one cheese at a time. Use the left and right arrow keys. Each time you are hit by a whip your energy level will drop!</B>]]>
+	</cheese_instructions2>
+	<cheese_success>
+		<![CDATA[Well done, you have shown your courage and endurance.]]>
+	</cheese_success>
+	<cheese_failure>
+		<![CDATA[You will need to show more strength and endurance to become a Spartan soldier!]]>
+	</cheese_failure>
+	<reached_eighteen>
+		<![CDATA[You are now 18. You have reached the end of your formal education. You will now go forward into general army training, or, if you have performed very well, you will be selected for the 'Secret Service Brigade'.]]>
+	</reached_eighteen>
+	<secret_service>
+		<![CDATA[Well done, you have performed very well. You have been selected for the 'Secret Service Brigade'.]]>
+	</secret_service>
+	<army_training>
+		<![CDATA[You have performed quite well. You will go forward into army training.]]>
+	</army_training>
+	<marching_instructions>
+		<![CDATA[You must now complete a training task for the army. You must follow the orders given by the instructor as he calls out battle positions. Use the up and down arrow keys to move into position.]]>
+	</marching_instructions>
+	<marching_success>
+		<![CDATA[Well done, your training is progressing well]]>
+	</marching_success>
+	<marching_failure>
+		<![CDATA[You need to try harder if you are to be a good soldier!]]>
+	</marching_failure>
+	<hunting_instructions>
+		<![CDATA[As a member of the 'Secret Service Brigade' you have been sent into the countryside. Here you must learn survival skills, stealing and hunting for food at night. Your presence in the countryside has another purpose: to ensure the helots remain fearful of the Spartans and won't rebell. You must find as much food as you can before sunrise, but watch out for dangers! Use the arrow keys to navigate.]]>
+	</hunting_instructions>
+	<hunting_success>
+		<![CDATA[Well done, you have survived a night in the wild and have found plenty of food!]]>
+	</hunting_success>
+	<hunting_failure>
+		<![CDATA[You have survived the night but didn't find much food: you need to work on your survival skills!]]>
+	</hunting_failure>
+	<hunting_death>
+		<![CDATA[You are injured. You cannot continue the task. Perhaps you should not have been chosen for the Secret Service Brigade!]]>
+	</hunting_death>
+	<mess_choice>
+		<![CDATA[You are now 20 and must be elected into a mess. Once elected, you will be part of the Spartan army. Those who have performed very well will be elected into the best messes. So, how well have you done?]]>
+	</mess_choice>
+	<mess_best>
+		<![CDATA[Well done, you have been elected into one of the best messes.This will help you to marry well!]]>
+	</mess_best>
+	<mess_average>
+		<![CDATA[You have been elected into a mess, but unfortunately you didn't get into one of the best ones!]]>
+	</mess_average>
+	<mess_worst>
+		<![CDATA[You have not been elected into a mess! You will not become a full Spartan citizen!]]>
+	</mess_worst>
+</copy>

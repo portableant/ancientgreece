@@ -1,0 +1,58 @@
+ body{
+	background-color: White;
+	color: Black;
+}
+body.pots{
+	background-color: White;
+	color: Black;
+}
+ :link {
+	color: Blue;
+	background-color : transparent;
+}
+ :visited {
+	color: Blue;
+	background-color : transparent;
+}
+ :active {
+	color: Blue;
+	background-color : transparent;
+}
+td {
+	font-family: helvetica,arial,sans-serif;
+	color : Black;
+}
+H3 {
+	font-family : helvetica,arial,sans-serif;
+	text-align : center;
+	color:white;
+}
+.title {
+	font-family : "Albertus Medium",helvetica,arial,sans-serif;
+	color : #000000;
+}
+.caption {
+	font-size : 75%;
+	text-align : center;
+	color : #666666;
+}
+.small {
+	font-size : 75%;
+}
+.large {
+	font-size : 125%;
+}
+.text{
+	font-family: helvetica,arial,sans-serif;
+	color : White;
+	}
+.print{
+	font-weight : bold;
+	color : Purple;
+}
+#topLeft{
+	position:absolute;
+	left:0;
+	top:0;
+	
+	}

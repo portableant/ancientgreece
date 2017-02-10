@@ -1,0 +1,76 @@
+﻿&char1cap1=
+&char1cap2=
+&char1cap3=
+&char1cap4=
+&char1cap5=<p align="center">This gold ring has filigree decoration.</p>
+&char1cap6=<p align="center">Gold earrings.</p>
+&char1cap7=
+&char1cap8=<p align="center">This drinking cup shows two heroes of the Trojan War, Achilles and Ajax, playing dice.</p>
+&char1cap9=
+&char1cap10=
+&char1cap11=
+&char2cap1=
+&char2cap2=
+&char2cap3=<p align="center">Limestone statuette of a potter</p>
+&char2cap4=
+&char2cap5=<p align="center">This vase shows a potter making a drinking cup.</p>
+&char2cap6=
+&char2cap7=<p align="center">This vase shows athletes running</p>
+&char2cap8=
+&char2cap9=
+&char2cap10=<p align="center">These women are playing knuckle-bones.</p>
+&char2cap11=
+&char3cap1=
+&char3cap2=
+&char3cap3=<p align="center">This ticket would have been presented on the day of trial to show you were eligible to serve on a jury.</p>
+&char3cap4=
+&char3cap5=
+&char3cap6=
+&char3cap7=<p align="center">Bronze pots like this were used at trials to collect the votes of the jury.</p>
+&char3cap8=
+&char3cap9=
+&char3cap10=<p align="center">This vase shows people gathering olives by beating them from the trees with sticks.</p>
+&char3cap11=
+&char4cap1=
+&char4cap2=<p align="center">These women are drawing water at a fountain house.</p>
+&char4cap3=
+&char4cap4=
+&char4cap5=
+&char4cap6=
+&char4cap7=<p align="center">These models show a woman grinding flour for bread and a woman at an oven.</p>&char4cap8=<p align="center">Woman spinning wool</p>
+&char4cap9=
+&char4cap10=
+&char4cap11=
+&char5cap1=
+&char5cap2=
+&char5cap3=
+&char5cap4=<p align="center">Bust of <font color="#660000"><u><a href="javascript:openGlos('../../glossary/p/perikles.html','glos')">Perikles</a></u></font>.</p>
+&char5cap5=
+&char5cap6=
+&char5cap7=
+&char5cap8=
+&char5cap9=
+&char5cap10=<p align="center">This vase shows a symposium.</p>
+&char5cap11=
+&char6cap1=
+&char6cap2=
+&char6cap3=<p align="center"> Vase showing <font color="#660000"><u><a href="javascript:openGlos('../../glossary/o/odysseus.html','glos')">Odysseus</a></u></font> escaping from the Cyclops by hiding under the belly of a ram.</p>
+&char6cap4=
+&char6cap5=
+&char6cap6=<p align="center">Vase showing athletes wrestling.</p>
+&char6cap7=
+&char6cap8=
+&char6cap9=
+&char6cap10=<p align="center">women playing knucklebones</p>
+&char6cap11=
+&char7cap1=
+&char7cap2=
+&char7cap3=
+&char7cap4=
+&char7cap5=
+&char7cap6=
+&char7cap7=
+&char7cap8=
+&char7cap9=<p align="center">Girl playing an aulos at a symposium</p>
+&char7cap10=
+&char7cap11=

@@ -1,0 +1,1 @@
+_magVar1=1.5&_magVar2=2&image1=images/objects/swfs/her_sto_sm.swf&image2=images/objects/swfs/her_sto_lg.swf&hex=0xcccccc&max_zoom=250&DATA=l_oaded

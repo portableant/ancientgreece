@@ -1,0 +1,28 @@
+title=The Greek house
+&bedroomTitle=Bedroom
+&bedroomText=The bedrooms of the family were simply furnished. Beds were similar to the couches used in the men's dining room. Wooden chests were used to store clothing and other items.
+&gynaikonTitle=Gynaikon
+&gynaikonText=A special room set aside just for the women of the house was called the gynaikon. Here the women worked on their weaving and spinning, entertained friends and female relatives and looked after their children.
+If a visiting male friend were to force his way into female quarters, the insult would have been unbearable. He would have faced very stern punishment for such a dishonourable act. 
+&slaveroomTitle=Slave's room
+&slaveroomText=The slaves had small rooms to sleep in with little furniture. Rooms for male slaves were grouped around the men's dining room and rooms for female slaves around the women's quarters
+&andronTitle=Andron
+&andronText=These rooms were for male members of the family.
+Men often entertained their friends and business associates in the men's dining room. Symposia, or drinking parties, were held here. Women would not normally enter this room - unless they were slaves serving the men, or specially hired female entertainers. 
+&kitchenTitle=Kitchen
+&kitchenText=Greek food was simple and healthy. Olive oil and grain were stored in large jars, called amphorae and pithoi, and cooking was done in plain, coarse pots. 
+The best pots and dishes were saved for entertaining and special occasions and were often beautifully decorated.
+&workroomTitle=Work room
+&workroomText=Craft industries like shoe or jewellery making often took place in workshops within a house. The slaves of the household would often work here. This workshop is for gold-working.
+&storeroomTitle=Store room
+&storeroomText=In here were kept large storage jars, called amphorae and pithoi. These contained basic foodstuffs, such as olive oil, wine and grain for grinding into flour.
+&alterTitle=Altar
+&alterText=Hestia was the Greek goddess of the household, so many Greek homes had an altar in her honour.
+Altars to Hephaestus were also popular. These were set up in the hearth as Hephaestus was the god of fire.
+It was the father of the house who acted as a priest to the family, offering sacrifices from time to time on the altar.
+&entranceTitle=Entrance
+&entranceText=This is the entrance to the house. Outside the main door there was often a column like statue called a herm, of the messenger god, Hermes.
+&courtYardTitle=Courtyard
+&courtYardText=Most Greek houses were built around a courtyard, which would often contain an altar to the goddess Hestia and sometimes a well for collecting water. Women would sometimes do their spinning or weaving here.
+&bathroomTitle=Bathroom
+&bathroomText=Wealthier people often had their own bathrooms. Water to fill the bath tub was collected from the well or public fountain and then heated over a fire. 

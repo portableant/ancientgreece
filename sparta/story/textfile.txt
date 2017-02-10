@@ -1,0 +1,47 @@
+intro=<font face="Arial, Helvetica, sans-serif" size="12">Spartan craftsmen produced beautiful bronze figures like this banqueter.</font><br><br><font face="Arial, Helvetica, sans-serif" size="14">In the Sparta of the 5th century BC, it seems people believed that Sparta had always been an <font color="#660000"><u><a href="javascript:openGlos('../../glossary/a/austere.html','glos')">austere</a></u></font>, military-minded city. However, we now know from <font color="#660000"><u><a href="javascript:openGlos('../../glossary/a/archaeological.html','glos')">archaeological</a></u></font> evidence that in the centuries before 500 BC, Sparta had been quite different. Like other Greek cities, Sparta had traded widely to get luxury items and had been home to poets and craftsmen producing beautiful objects.  So why had Sparta become so austere by the 5th century? We have written a story that tries to show one possible reason for this change.</font>
+
+&page1=<font face="Arial, Helvetica, sans-serif" size="14">Watching his son sleeping, Dienekes thought of the approaching birthday: in less than a week his son would be seven. This was an occasion of great importance, as his son would leave his family home and join other Spartan boys in the state education system, called the agoge. Here he would sleep in <font color="#660000"><u><a href="javascript:openGlos('../../glossary/b/barracks.html','glos')">barracks</a></u></font> and take part in physical training to mould him into a good soldier.</font>
+
+&Page2=<font face="Arial, Helvetica, sans-serif" size="14">He had told his son about being educated the Spartan way. His son had been excited at the prospects of lots of athletic activities and also the singing and dancing, but it was difficult for him to understand just how important, and how tough, this training was.</font>
+
+&Page3=<font face="Arial, Helvetica, sans-serif" size="14">Dienekes remembered listening to his grandfather talk about a different Sparta, long before the threat of <font color="#660000"><u><a href="javascript:openGlos('../../glossary/p/Persia.html','glos')">Persia</a></u></font>, long before Sparta had become a city of soldiers, where citizens were forbidden from becoming craftsmen...</font>
+
+&Page4=<font face="Arial, Helvetica, sans-serif" size="14">"<b>Sparta has not always been about only soldiers and war</b>", Dienekes' grandfather said to the boy at his side. "<b>From early times, Sparta has had its own slave population, who we call Helots. These people have farmed the land and provided some of the food they grow for their Spartan overlords.</b>"</font>
+
+&Page5=<font face="Arial, Helvetica, sans-serif" size="14">"<b>As Sparta developed, it wanted more land. The land of Messenia, over the mountains, was a very <font color="#660000"><u><a href="javascript:openGlos('../../glossary/f/fertile.html','glos')">fertile</a></u></font> place and Sparta determined to conquer it and force these people into slavery on the land.</b>"</font>
+
+&Page6=<font face="Arial, Helvetica, sans-serif" size="14">"<b>Whilst Sparta became wealthy, trading in luxury goods of gold, silver, ivory and other materials, the Helots sweated in the fields, but their <font color="#660000"><u><a href="javascript:openGlos('../../glossary/r/resentment.html','glos')">resentment</a></u></font> grew. Finally, they rose up and fought their Spartan masters and the fighting continued for many years. But the Spartans eventually gained victory and so became more powerful and more wealthy.</b>"</font>
+
+
+&Page7=<font face="Arial, Helvetica, sans-serif" size="14">Dienekes' grandfather had smiled at this point in his tale: "<b>Sparta produced beautiful things as her wealth increased. Ivory carvings that were desired across Greek lands; bronze-work; pottery that was exported to Italy and poetry. But our power over the Helots had other consequences</b>".</font>
+
+
+&Page8=<font face="Arial, Helvetica, sans-serif" size="14">Dienekes looked at his grandfather, who had fallen silent. His grandfather appeared to organise his thoughts before continuing. "<b>Sparta had <font color="#660000"><u><a href="javascript:openGlos('../../glossary/s/suppress.html','glos')">suppressed</a></u></font> the Helots, but we could not afford to forget that they forever threatened our way of life. We had always to be ready to fight; after all, there have always been many more Helots than Spartans.</b>"</font>
+
+
+&Page9=<font face="Arial, Helvetica, sans-serif" size="14">"<b>Our boys were educated in a way that emphasised their physical fitness, courage and obedience. Our girls' upbringing ensured that they were healthy and strong and so would have strong babies. There was no longer a place in our lives for luxury objects, nor for the craftsmen who made them</b>".</font>
+
+
+&Page10=<font face="Arial, Helvetica, sans-serif" size="14">Dienekes' grandfather had ended his tale quietly, his thoughts unreadable to his grandson...</font>
+
+
+&Page11=<font face="Arial, Helvetica, sans-serif" size="14">Dienekes was now a grown man and soldier of Sparta. He had completed the agoge himself. He knew very well how Sparta remained constantly alert to the threat of the Helots. And now his son would follow the same path and become a soldier, so as to protect Sparta in the future. It seemed that Sparta had always been a fighting machine, but Dienekes' grandfather had shown him that there was more to Sparta than soldiers and war...</font>
+
+
+&Page12=<font face="Arial, Helvetica, sans-serif" size="14">All of these objects come from the region around Sparta. In what ways do they support the message of the story?<br><br>You can find out more about these objects in the Explore section.</font>
+
+
+&Page13=<font face="Arial, Helvetica, sans-serif" size="14">An ivory plaque showing a god.</font>
+
+
+&Page14=<font face="Arial, Helvetica, sans-serif" size="14">A bronze figure of a banqueter, lying on a couch.</font>
+
+
+&Page15=<font face="Arial, Helvetica, sans-serif" size="14">A bronze figure of a shepherd, possibly representing a helot.</font>
+
+
+&Page16=<font face="Arial, Helvetica, sans-serif" size="14">A bronze figure of a girl taking part in a race.</font>
+
+
+&Page17=<font face="Arial, Helvetica, sans-serif" size="14">A bronze figure of a warrior, who once held a spear in his raised hand.</font>
+

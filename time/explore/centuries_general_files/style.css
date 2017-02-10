@@ -1,0 +1,24 @@
+BODY {
+	COLOR: black; BACKGROUND-COLOR: #333333
+}
+:link {
+	COLOR: #990000; BACKGROUND-COLOR: transparent
+}
+:visited {
+	COLOR: #660000; BACKGROUND-COLOR: transparent
+}
+:active {
+	COLOR: red; BACKGROUND-COLOR: transparent
+}
+TD {
+	COLOR: black; FONT-FAMILY: helvetica,arial,sans-serif
+}
+TD.date {
+	FONT-SIZE: smaller; VERTICAL-ALIGN: top; WIDTH: 100px; COLOR: white; FONT-FAMILY: helvetica,arial,sans-serif; TEXT-ALIGN: center
+}
+TD.text {
+	VERTICAL-ALIGN: middle; WIDTH: 300px; COLOR: black; BACKGROUND-COLOR: #face39; TEXT-ALIGN: center
+}
+TD.pic {
+	VERTICAL-ALIGN: middle; WIDTH: 100px; COLOR: white; BACKGROUND-COLOR: #000000; TEXT-ALIGN: center
+}

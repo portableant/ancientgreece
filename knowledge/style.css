@@ -1,0 +1,71 @@
+ body{
+	background-color: #660000;
+	color: white;
+}
+ :link {
+	color: #ffffcc;
+	background-color : transparent;
+}
+ :visited {
+	color: #ffffcc;
+	background-color : transparent;
+}
+ :active {
+	color: yellow;
+	background-color : transparent;
+}
+td {
+	font-family: helvetica,arial,sans-serif;
+	color : White;
+}
+H3 {
+	font-family : helvetica,arial,sans-serif;
+	text-align : center;
+	color:white;
+}
+.title {
+	font-family : "Albertus Medium",helvetica,arial,sans-serif;
+	color : #ffffff;
+}
+.main{
+	background-color : #530000;
+}
+.caption {
+	font-size : 75%;
+	text-align : center;
+	color : #cccccc;
+}
+.small {
+	font-size : 75%;
+}
+.large {
+	font-size : 125%;
+}
+.text{
+	font-family: helvetica,arial,sans-serif;
+	color : White;
+}
+.print{
+	display : none;
+}
+#topLeft{
+	position:absolute;
+	left:0;
+	top:0;
+}
+table.w502 {
+	width : 502px;
+	background-color : #b8714a;
+	display : block;
+}
+table.w500 {
+	width : 500px;
+	background-color : #82350b;
+	display : block;
+}
+
+.socback {
+	background-image: url(images/socrates.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}

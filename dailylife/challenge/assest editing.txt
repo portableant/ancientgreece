@@ -1,0 +1,21 @@
+assest editing
+______________
+
+
+small images of objects
+------------------------
+
+1. open the dynamicLinkLibrary.fla
+2. import the image into the library - file/import to library
+3. go into the relevant movie clip for the imported image.- double click movieclip
+4. drag image from library into the movie clip.
+5. press ctrl & k to reveal the 'align panel'
+6. make sure to stage: is clicked
+7. select image & align to bottom edge & horizontal centre
+8. click scene to return to the main timeline
+
+
+
+
+
+

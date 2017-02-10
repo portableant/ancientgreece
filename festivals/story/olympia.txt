@@ -1,0 +1,196 @@
+title=The Games at Olympia
+
+&p_boul=The Bouleuterion
+&pm_boul=at the Bouleuterion
+&p_zeus=The Temple of Zeus
+&pm_zeus=maybe visit the Temple of Zeus
+&pm_zeus_at=at the Temple of Zeus
+&p_altis=The Altis
+&pm_altis=around the Altis
+&p_stad=The Stadium
+&pm_stad=in the Stadium
+&p_hipp=The Hippodrome
+&pm_hipp=in the Hippodrome
+&p_alter=The Great Altar
+&pm_alter=at the Great Altar
+&p_pelo=The Shrine of Pelops (an Olympic hero)
+&pm_pelo=at the Shrine of Pelops 
+&p_pryt=The Prytaneion
+&pm_pryt=at the Prytaneion
+
+&p_info=Select different views or click anywhere else to close
+
+&intro=<font face="Arial,Helvetica,sans-serif" size="14" color="#333333"><b>The festival at Olympia in honour of Zeus was the most important athletic event in the Greek world. From every region of Greece and its colonies, athletes came to Olympia to compete in a range of events over five days. To achieve victory at the Olympic Games brought the highest <font color="#660000"><u><a href="javascript:openGlos('../../glossary/h/honours.html','glos')">honours</a></u></font> to an athlete.<br><br><font size="16" color="#660000">Click to follow the Olympic events over the 5 days of the festival</font></b></font>
+
+&intro_inst=
+
+
+&d1_day=Day 1:
+&d1_title=The Olympic Games begin
+
+&d1_intro=<font face="Arial,Helvetica,sans-serif" size="14"><b>The festival has begun, but most of the athletes won't compete today. This morning the athletes worship Zeus and later, they can relax with family and friends, before the competition gets underway tomorrow.</b></font>
+
+&d1_intro_inst=Select an event or continue to day 2
+
+&d1_t_e1=Promises to Zeus
+&d1_t_e2=Sacrifices to Zeus
+&d1_t_e3=Leisure time
+
+&d1_e1=<font face="Arial,Helvetica,sans-serif" size="14">The <font color="#660000"><u><a href="javascript:openGlos('../../glossary/s/sanctuary.html','glos')">sanctuary</a></u></font> of Olympia, <font color="#660000"><u><a href="javascript:openGlos('../../glossary/s/sacred.html','glos')">sacred</a></u></font> to Zeus, buzzes with anticipation. The Games are once again underway and the athletes brim with the hope of victory. But before any events take place, the competitors, their fathers and trainers must swear an <font color="#660000"><u><a href="javascript:openGlos('../../glossary/o/oath.html','glos')">oath</a></u></font> to Zeus, that they have trained for ten months and that they will obey the rules. They gather now in the Council Building, the Bouleuterion, before the statue of Zeus.</font>
+
+&d1_e1_cap1=<p align="center"><b>A ring showing 'Zeus of the Oaths'</b></p>
+
+&d1_e2=<font face="Arial,Helvetica,sans-serif" size="14">After the athletes have sworn their <font color="#660000"><u><a href="javascript:openGlos('../../glossary/o/oath.html','glos')">oath</a></u></font>, they make <font color="#660000"><u><a href="javascript:openGlos('../../glossary/s/sacrifices.html','glos')">sacrifices</a></u></font> to Zeus at one of the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/a/altar.html','glos')">altars</a></u></font> placed around the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/a/altis.html','glos')">Altis</a></u></font>.<br><br>The only events today are for young athletes, between 12 and 18: these are running, wrestling and boxing.</font>
+
+&d1_e2_cap1=<p align="center"><b>Figurine of an athlete pouring a liquid offering</b></p>
+
+&d1_e3=<font face="Arial,Helvetica,sans-serif" size="14">The competitors have some time to relax before the contests begin. With family and friends, they stroll around the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/s/sanctuary.html','glos')">sanctuary</a></u></font>; there are many sites to take in. The most important and impressive building is the Temple of Zeus, where there is a huge gold and ivory statue of the god, one of the Seven Wonders of the World.</font>
+
+&d1_e3_cap1=<p align="center"><b>A coin showing the head of Zeus, thought to be based on the famous statue at Olympia</b></p>
+
+
+&d2_day=Day 2:
+&d2_title=Chariot and horse-racing and the pentathlon
+
+&d2_intro=<font face="Arial,Helvetica,sans-serif" size="14"><b>It's the second day of the Games and now the contest gets going. Up first, horse and chariot-racing and later, over in the stadium, the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/p/pentathlon.html','glos')">pentathlon</a></u></font>.  This evening the crowd honours the first Olympic hero, Pelops, and then it's time for feasting.</b></font>
+
+&d2_intro_inst=Select an event or continue to day 3
+
+&d2_t_e1=Chariot races
+&d2_t_e2=Horse races
+&d2_t_e3=Pentathlon
+&d2_t_e3a=Pentathlon - Discus
+&d2_t_e3b=Pentathlon - Javelin
+&d2_t_e3c=Pentathlon - Long Jump
+&d2_t_e3d=Pentathlon - Sprint Race
+&d2_t_e3e=Pentathlon - Wrestling
+&d2_t_e4=Honouring an Olympic hero
+&d2_t_e5=Feasting
+
+&d2_e1=<font face="Arial,Helvetica,sans-serif" size="14">The morning's events take place in the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/h/hippodrome.html','glos')">hippodrome</a></u></font>. A great procession of chariots, horses and riders makes its way into the large arena, cheered by the crowds standing on the grassy banks. In the seats sit the judges.<br><br>The chariot races are first. These are dangerous and the crowds roar their support for the favourite competitor.</font>
+
+&d2_e1_cap1=<p align="center"><b>Vase showing a racing chariot</b></p>
+&d2_e1_cap2=<p align="center"><b>Vase showing a chariot passing the finishing post</b></p>
+
+&d2_e2=<font face="Arial,Helvetica,sans-serif" size="14">After the chariot races, the horse races take place. These are much shorter than the chariot races, just one lap of the arena. Jockeys ride bareback and some of the riders fall during the race. The horses that take part are owned by wealthy people, but only a few of these actually ride in the race.</font>
+
+&d2_e2_cap1=<p align="center"><b>Vase showing a horse race</b></p>
+
+&d2_e3=<font face="Arial,Helvetica,sans-serif" size="14">The crowds now head over to the stadium. They jostle for position to get a good view of the events about to take place in the pentathlon: these are <font color="#660000"><u><a href="javascript:openGlos('../../glossary/d/discus.html','glos')">discus</a></u></font>, <font color="#660000"><u><a href="javascript:openGlos('../../glossary/j/javelin.html','glos')">javelin</a></u></font>, jumping, running and wrestling.</font>
+
+&d2_e3_cap1=<p align="center"><b>Vase showing three events from the pentathlon</b></p>
+
+&d2_e3a=<font face="Arial,Helvetica,sans-serif" size="14">The athletes throw the discus, weighing about two and a half kilograms, as far as they can: there is no prize for coming second or third, people only remember who wins.</font>
+
+&d2_e3a_cap1=<p align="center"><b>A marble statue of a discus thrower</b></p>
+&d2_e3a_cap2=<p align="center"><b>A bronze discus</b></p>
+
+&d2_e3b=<font face="Arial,Helvetica,sans-serif" size="14">The athletes take part in the javelin contest. This reminds both spectators and competitors of one of the purposes for all this athletic achievement: to be fit and strong soldiers.</font>
+
+&d2_e3b_cap1=<p align="center"><b>Vase showing athletes, including a javelin thrower</b></p>
+
+&d2_e3c=<font face="Arial,Helvetica,sans-serif" size="14">The third event of the pentathlon is the long jump - there is no high jump at this time. The athletes hold weights in each hand which they swing forward on take-off.</font>
+
+&d2_e3c_cap1=<p align="center"><b>Discus with an engraved long jumper</b></p>
+&d2_e3c_cap2=<p align="center"><b>Jumping weights used for the long jump</b></p>
+
+&d2_e3d=<font face="Arial,Helvetica,sans-serif" size="14">If one athlete has won all the events so far, he is now proclaimed the winner of the pentathlon and the last two events are not held. If there is no clear winner yet, the athletes take part in a sprint race.</font>
+
+&d2_e3d_cap1=<p align="center"><b>Vase showing a runner</b></p>
+
+&d2_e3e=<font face="Arial,Helvetica,sans-serif" size="14">The pentathlon closes with the wrestling: with no winner yet decided the competitors must show their strength in contact sports. The winner of the pentathlon, then, is truly an all-rounder.</font>
+
+&d2_e3e_cap1=<p align="center"><b>Vase showing people wrestling</b></p>
+
+&d2_e4=<font face="Arial,Helvetica,sans-serif" size="14">As evening approaches, the crowds gather around the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/s/shrine.html','glos')">shrine</a></u></font> of the first winner of the chariot race, Pelops. His funeral <font color="#660000"><u><a href="javascript:openGlos('../../glossary/c/ceremony.html','glos')">ceremonies</a></u></font> are re-enacted, while the athletes dream of taking their place in the glorious history of winners at Olympia.</font>
+
+&d2_e4_cap1=<p align="center"><b>Vase showing the Olympic hero, Pelops</b></p>
+
+&d2_e5=<font face="Arial,Helvetica,sans-serif" size="14">Feasting ends the day, as the winners of the events listen to hymns sung in their honour and parade around the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/a/altis.html','glos')">Altis</a></u></font>. Those who have lost think of what might have been...</font>
+
+&d2_e5_cap1=<p align="center"><b>A cup showing people at a feast</b></p>
+
+
+&d3_day=Day 3:
+&d3_title=Sacrifices to Zeus and running races
+
+&d3_intro=<font face="Arial,Helvetica,sans-serif" size="14"><b>Today, Zeus is honoured with <font color="#660000"><u><a href="javascript:openGlos('../../glossary/s/sacrifices.html','glos')">sacrifices</a></u></font> and a procession. Later on, over in the stadium, it's the running races, including the all-important sprint race. And this evening, it's the big banquet to celebrate the victories so far.</b></font>
+
+&d3_intro_inst=Select an event or continue to day 4
+
+&d3_t_e1=Sacrifices to Zeus
+&d3_t_e2=Long-distance race
+&d3_t_e3=Sprint race
+&d3_t_e4=The banquet
+
+&d3_e1=<font face="Arial,Helvetica,sans-serif" size="14">This is the morning when Zeus is honoured with the sacrifice of 100 oxen, given by the people of Elis, the city responsible for the games at Olympia. This is the most important religious event of the festival, although all the sporting activities also honour Zeus.<br><br>The athletes and <font color="#660000"><u><a href="javascript:openGlos('../../glossary/a/ambassadors.html','glos')">ambassadors</a></u></font> of many Greek city-states form a procession that winds around the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/a/altis.html','glos')">Altis</a></u></font>. The ambassadors carry gold and silver <font color="#660000"><u><a href="javascript:openGlos('../../glossary/v/vessel.html','glos')">vessels</a></u></font> to represent the wealth of their cities. They pass <font color="#660000"><u><a href="javascript:openGlos('../../glossary/h/hera.html','glos')">Hera</a></u></font>'s temple and the treasuries, set up by Greek <font color="#660000"><u><a href="javascript:openGlos('../../glossary/c/colonies.html','glos')">colonies</a></u></font> to impress visitors with their success.<br><br>The procession passes the Temple of Zeus and halts at the great <font color="#660000"><u><a href="javascript:openGlos('../../glossary/a/altar.html','glos')">altar</a></u></font>. Here, the oxen are sacrificed by the priests, who place the thigh bones of the animals, wrapped in fat, onto the altar where they are burnt. The smoke rises up to the gods. The rest of the meat from the sacrifices is kept for a great feast.</font>
+
+&d3_e1_cap1=<p align="center"><b>Vase showing a sacrifice scene</b></p>
+
+&d3_e2=<font face="Arial,Helvetica,sans-serif" size="14">In the stadium, the crowds wait for the running races to begin. First is the long-distance race, called the dolichos. There are no lanes for running and a sharp turn at either end, and the athletes push and jostle and even deliberately trip each other.</font>
+
+&d3_e2_cap1=<p align="center"><b>Vase showing long distance runners</b></p>
+&d3_e2_cap2=<p align="center"><b>Vase with long distance runners</b></p>
+ 
+&d3_e3=<font face="Arial,Helvetica,sans-serif" size="14">Now is the event that all the spectators have been looking forward to: the sprint race. A blast on the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/h/herald.html','glos')">herald's</a></u></font> trumpet signals the start. It is just one length of the stadium, about 192 metres. This event brings more glory to the winner than all the other Olympic sports: if you win, the Games will be named after you, so preserving your name for history.</font>
+
+&d3_e3_cap1=<p align="center"><b>Vase showing a runner</b></p>
+
+&d3_e4=<font face="Arial,Helvetica,sans-serif" size="14">Once more the evening is a time for celebrating the victories of the day. The meat from the morning's sacrifice is divided between athletes, special guests and spectators for a huge banquet. The <font color="#660000"><u><a href="javascript:openGlos('../../glossary/a/ambassadors.html','glos')">ambassadors</a></u></font> who had paraded around the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/a/altis.html','glos')">Altis</a></u></font> in the morning now make use of the gold and silver <font color="#660000"><u><a href="javascript:openGlos('../../glossary/v/vessel.html','glos')">vessels</a></u></font> for the banquet, and so display the wealth of their city.</font>
+
+&d3_e4_cap1=<p align="center"><b>A cup showing a banquet scene</b></p>
+
+
+&d4_day=Day 4:
+&d4_title=The contact sports and the 'race in armour'
+
+&d4_intro=<font face="Arial,Helvetica,sans-serif" size="14"><b>Contact sports take centre stage today, with wrestling, boxing and the pankration on offer. Over in the stadium, the race in armour will be contested this afternoon.</b></font>
+
+&d4_intro_inst=Select an event or continue to day 5
+
+&d4_t_e1=Wrestling
+&d4_t_e2=Boxing
+&d4_t_e3=Pankration (all-in wrestling)
+&d4_t_e4=Race in armour
+
+&d4_e1=<font face="Arial,Helvetica,sans-serif" size="14">Today the contact sports take centre stage and to start is the wrestling. The athletes use all their strength to hold down their opponent and get their shoulders or back on the ground. They must get three of these 'falls' to win. There is no time limit to the contest and the wrestlers ignore their aching limbs in the fight for victory.</font>
+
+&d4_e1_cap1=<p align="center"><b>Vase showing people wrestling</b></p>
+
+&d4_e2=<font face="Arial,Helvetica,sans-serif" size="14">Only the toughest athletes compete in the boxing. The spectators watch as the men fight until one gives up or is knocked out. Around their hands are wound strips of leather. As the fight progresses, the men become bruised and battered, but they don't want to give in.</font>
+
+&d4_e2_cap1=<p align="center"><b>Vase showing boxing</b></p>
+ 
+&d4_e3=<font face="Arial,Helvetica,sans-serif" size="14">Whilst the boxing continues, another event takes place that requires the strength and skills of boxing and wrestling - the pankration. The athletes can strike and kick each other and even use strangleholds to defeat their opponent. The only things not allowed are biting and <font color="#660000"><u><a href="javascript:openGlos('../../glossary/g/gouging.html','glos')">gouging</a></u></font> with the fingers. When one of the athletes can take no more, he raises a finger to show the judge he gives in.</font>
+
+&d4_e3_cap1=<p align="center"><b>Vase showing pankratiasts</b></p>
+&d4_e3_cap2=<p align="center"><b>Vase showing athletes training, including pankratiasts</b></p>
+
+&d4_e4=<font face="Arial,Helvetica,sans-serif" size="14">Under the hot August sun, the spectators wait to watch the last event of the Games. This is a race in armour, called the 'hoplitodromos'. Like the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/j/javelin.html','glos')">javelin</a></u></font>, this reminds those watching that sporting effort is vital for war, as it ensures the soldiers are fit and strong. The athletes run two lengths of the track wearing a helmet, <font color="#660000"><u><a href="javascript:openGlos('../../glossary/g/greaves.html','glos')">greaves</a></u></font> and shield. Twenty-five identical shields are kept in the Temple of Zeus for the competitors to use, so ensuring that no one cheats with a lighter shield.<br><br>As the winner crosses the finishing line, the crowds stand and cheer, knowing that it will be four years before they watch this race again.</font>
+
+&d4_e4_cap1=<p align="center"><b>A cup showing the race in armour</b></p>
+
+
+&d5_day=Day 5:
+&d5_title=The Games end and the celebrations of victory
+
+&d5_intro=<font face="Arial,Helvetica,sans-serif" size="14"><b>It's the last day and time to acknowledge our winners. First up, the procession and then, the moment the victors have been waiting for, the presentation of olive leaf crowns. We end the day with feasting, singing and parties.</b></font>
+
+&d5_intro_inst=Select an event or go back to day 4
+
+&d5_t_e1=Procession
+&d5_t_e2=Olive leaf crowns
+&d5_t_e3=Feasting and parties
+
+&d5_e1=<font face="Arial,Helvetica,sans-serif" size="14">Today, athletes, their families and the spectators celebrate the victors of this year's Games. The winning athletes lead a great procession of people to the Temple of Zeus.</font>
+
+&d5_e1_cap1=<p align="center"><b>A bowl showing a procession</b></p>
+
+&d5_e2=<font face="Arial,Helvetica,sans-serif" size="14">The winners now come to the moment they have dreamed of: one by one each athlete steps forward and is crowned with a wreath of olive leaves. This is placed on their heads <br>by one of the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/h/hellanodikai.html','glos')">Hellanodikai</a></u></font>. Having received this great honour, the victors know that they have made a great offering to Zeus of their strength and speed. As the athletes are congratulated, the crowds celebrate too, showering their heroes with bright petals and leaves which they toss into the air.</font>
+
+&d5_e2_cap1=<p align="center"><b>A winning athlete is presented with winner's ribbons</b></p>
+&d5_e2_cap2=<p align="center"><b>A winner wearing victory ribbons</b></p>
+ 
+&d5_e3=<font face="Arial,Helvetica,sans-serif" size="14">The Games are over. Tomorrow, athletes, their trainers and families, and the spectators, will start the journey home. But for now, the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/s/sanctuary.html','glos')">sanctuary</a></u></font> at Olympia is filled with the sounds of feasting and singing, as banquets and parties take place and people relive the glorious achievements of the Olympic Games.</font>
+
+&d5_e3_cap1=<p align="center"><b>Vase showing people going to a party</b></p>

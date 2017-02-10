@@ -1,0 +1,121 @@
+title=Symbols of the Gods
+&intro1=<p align='center'><font size='18'><b>Look at this picture of a god</b></font></p>
+&intro2=<p align='center'><font size='18'><b>You can see he is sitting on a throne</b></font></p>
+&intro3=<p align='center'><font size='18'><b>Also he is holding a thunderbolt</b></font></p>
+&intro4=<p align='center'><font size='18'><b>These symbols tell us that the god is probably Zeus</b></font></p>
+&intro5=<p align='center'><font size='18'><b>Now it's your turn</b></font></p>
+&symtxt=
+&sym1_t=three pronged spear
+&sym1_m=This is a trident, a three-pronged spear used to catch fish.
+&sym2_t=wide brimmed hat
+&sym2_m=This type of hat was usually worn by messengers and travellers. 
+&sym3_t=staff
+&sym3_m=This staff would have been used by messengers and heralds.
+&sym4_t=winged sandals
+&sym4_m=These sandals helped the wearer fly quickly anywhere around the world.
+&sym5_t=sea creature
+&sym5_m=Fish or mammals such as dolphins were associated with one of the gods.
+&sym6_t=goat skin shawl fringed with snakes
+&sym6_m=This type of shawl is called an <i>aegis</i> and is fringed with snakes. It acted as a magical shield for one of the goddesses.
+&sym7_t=helmet
+&sym7_m=This is a helmet. This is used in battle to protect your head. 
+&sym8_t=armour
+&sym8_m=Armour like this was used to protect soldiers at war.
+&sym9_t=bow and arrow
+&sym9_m=This is a bow and arrow. Archery was used in both hunting and war.
+&sym10_t=quiver
+&sym10_m=This is a quiver. It is used to hold arrows.
+&sym11_t=grapes / vines
+&sym11_m=These are grapes. They are used to make wine. 
+&sym12_t=wine cup
+&sym12_m=This type of cup is called a kantharos. It was used for wine by one of the gods and his companions.
+&sym13_t=<i>satyr</i>
+&sym13_m=This is a <i>satyr</i>, a mythical woodland creature with the ears and tail of a horse. <i>Satyrs</i> behaved in a wild way, so they were connected with drinking too much wine!
+&sym14_t=frenzied women
+&sym14_m=These raving, mad women are called <i>maenads</i>. <i>Maenads</i> behaved in a wild way, so they were connected with drinking too much wine!
+&sym15_t=geese
+&sym15_m=Geese were strongly associated with one of the Greek goddesses.
+&sym16_t=doves
+&sym16_m=Doves were strongly associated with one of the Greek goddesses.
+&sym17_t=winged boy
+&sym17_m=This is Eros the god of love. He is often shown accompanying one of the goddesses.
+&sym18_t=Stringed instrument
+&sym18_m=This could be a kithara or a lyre, two ancient stringed instruments. 
+&sym19_t=thunderbolt
+&sym19_m=A bolt of lightning was used as a weapon by one of the gods.
+&sym20_t=throne
+&sym20_m=Thrones are a symbol of royalty and were associated with the king and queen of the gods.
+&sym21_t=grain or wheat
+&sym21_m=This is grain or wheat.
+&sym22_t=high cone shaped hat
+&sym22_m=This is a type of crown called a polos.
+&sym23_t=wild animal
+&sym23_m=One of the goddesses is often shown with wild animals.
+&sym24_t=sceptre
+&sym24_m=This is a sceptre. This was a rod that was usually held by a king or a queen.
+
+&zeus_t=Zeus
+&zeus_m=King of the gods. God of weather and thunder.
+&hera_t=Hera
+&hera_m=Queen of the gods. Goddess of marriage.
+&athe_t=Athena
+&athe_m=Goddess of war and crafts such as pottery and weaving.
+&deme_t=Demeter
+&deme_m=Goddess of farming
+&heph_t=Hephaistos
+&heph_m=God of metalworkers.
+&aphr_t=Aphrodite
+&aphr_m=Goddess of love and beauty
+&ares_t=Ares
+&ares_m=God of war
+&herm_t=Hermes
+&herm_m=God of travellers and messengers
+&apol_t=Apollo
+&apol_m=God of the arts and music
+&arte_t=Artemis
+&arte_m=Goddess of hunting and childbirth
+&dion_t=Dionysos
+&dion_m=God of wine and high spirits
+&pose_t=Poseidon
+&pose_m=God of the sea and horses
+
+&obj1_txt=The wide-brimmed traveller's hat shows that this is a figure of Hermes. However, his other traditional attributes, the messenger's staff and winged sandals, are missing from this sculpture.
+&obj2_txt=Hermes was the god of travellers and messengers. He is usually shown wearing a traveller's wide brimmed hat and a herald's staff.
+&obj3_txt=Hermes was the messenger god and was closely associated with travellers. Therefore he is usually shown with a traveller's hat and a messenger's staff. 
+&obj4_txt=This vase shows Hermes in his usual dress of wide brimmed hat and staff.  On his feet he wears winged sandals. These helped him to travel quickly over the sea and around the world.
+
+&obj5_txt=Poseidon is shown here holding a trident, a symbol very much associated with the god. A trident is a three-pronged spear used for catching fish.
+&obj6_txt=The trident was a symbol very much associated with Poseidon. The trident is a three-pronged spear. It was given to Poseidon by the Cyclopes, when he, Zeus and Hades fought against the Titans.
+&obj7_txt=Poseidon is the god of the sea. He is sometimes depicted with fish. Here he is shown holding a fish.
+
+&obj8_txt=Athena coin - This coin, which was issued in Thrace, shows Athena seated. She is the goddess of war and is portrayed in full battle dress; helmet, shield and spear. The smaller winged figure she holds is Nike, goddess of victory. The two goddesses are often portrayed together.
+&obj9_txt=In this unusual illustration of Athena, you can see the goddess sitting on her aegis, a goat-skin shawl fringed with snakes.
+&obj10_txt=Athena, the goddess of war, is shown here in armour and ready for battle. You can see her snake-fringed aegis or shawl hanging from her back. This amphora was a prize at a festival held in honour of Athena. 
+&obj11_txt=This relief shows Athena supervising the building of the mythical ship, the Argo. Athena was the patron of carpenters. She was also believed to have built the first ship.
+
+&obj12_txt=Artemis was the goddess of hunting among other things. She is associated with wild places and the countryside.  She is shown here hunting a deer. 
+&obj13_txt=Artemis, the goddess of hunting, is usually shown with bow and arrows. On her back you can see her quiver, a container for her arrows.
+&obj14_txt=Artemis was associated with wild places. She was often shown with wild animals. On this vase you can see a quiver full of arrows on her back. She also wears an animal skin.
+
+&obj15_txt=The god of wine, Dionysos, is often shown surrounded by vines or bunches of grapes. On this vase he is holding a vine branch with grapes.
+&obj16_txt=Dionysos is shown on this vase surrounded by maenads and satyrs. Maenads were women who had been driven mad by the god. A satyr was a woodland creature with the tail and ears of a horse. 
+&obj17_txt=Dionysos here is sitting next to his wife, Ariadne. He holds a wine cup in his hand and is surrounded by vine branches. Around the couple are dancing satyrs, creatures who were part man, part horse.
+&obj18_txt=This vase shows Dionysos holding a special type of wine cup called a kantharos. On his head he wears a wreath of vine leaves.
+
+&obj19_txt=Apollo was very much associated with the arts and music. He is often shown playing a kithara or, as here, a lyre.
+&obj20_txt=Apollo was the god of arts and music. Here he is shown holding a lyre, an ancient stringed instrument.
+&obj21_txt=Apollo, god of music and the arts, is shown on this vase holding a kithara.
+
+&obj22_txt=The seated figure here is Aphrodite goddess of love. We can identify her by the winged boy on her shoulder. He is Eros, the god of love.
+&obj23_txt=Aphrodite is shown here as a beautiful young woman. She rests her foot on a goose. This was one of the types of bird that were associated with the goddess of love.
+&obj24_txt=Aphrodite is shown here on a goose. Geese were just one of the types of birds associated with the goddess. She was also often shown with doves. 
+
+&obj25_txt=Ares, the god of war, is shown here in full battle-dress.
+
+&obj26_txt=Demeter, the grain goddess, holds a sheaf of wheat and a torch.
+
+&obj27_txt=Zeus was the strongest of all the gods. He was also the weather god. He is shown here using a thunder bolt in battle.
+&obj28_txt=Zeus is shown here with a thunderbolt and sceptre. This powerful weapon helped him to keep control over all the other gods and goddesses.  
+&obj29_txt=Zeus sits on a throne on this vase. This shows that he is the king of all the gods.
+
+&obj30_txt=This is probably a terracotta figure of Hera. She wears a high polos which was a sign of royalty. On her lap she holds a rosette and a bull's head, these were also symbols associated with Hera.

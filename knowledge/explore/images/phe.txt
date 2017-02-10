@@ -1,0 +1,1 @@
+_magVar1=1.5&_magVar3=4&image1=images/phe_sm.swf&image2=images/phe_lg.swf&hex=0x990000&max_zoom=300&DATA=l_oaded

@@ -1,0 +1,192 @@
+Movie Report
+-------------
+FrameFrame #    Frame Bytes    Total Bytes    Page
+------------    -----------    -----------    ---------------
+    1            35             35        Scene 1
+    2           183            218          2
+    3           706            924          3
+    4            16            940          4
+    5             2            942          5
+    6           446           1388          6
+    7             2           1390          7
+    8             2           1392          8
+    9             2           1394          9
+   10        232987         234381          10
+   11            54         234435          11
+   12             2         234437          12
+   13             2         234439          13
+   14             2         234441          14
+   15             2         234443          15
+   16             2         234445          16
+   17             2         234447          17
+   18             2         234449          18
+   19             2         234451          19
+
+Page                       Shape Bytes    Text Bytes
+-----------------------    -----------    ----------
+Scene 1                          41            72
+
+Embedded Objects                 53             0
+
+Page                       Symbol Bytes    Text Bytes
+-----------------------    ------------    ----------
+dotselect                        55             0
+red dot symbol - info area        0             0
+grey dot                         60             0
+red dot                          60             0
+green dot  new                   60             0
+black dot                        60             0
+zoomplusnew                       0            33
+zoomminusnew                      0            36
+Symbol 205                        0             0
+Symbol 204                        0             0
+Symbol 203                        0             0
+Symbol 202                        0             0
+Symbol 201                        0             0
+Symbol 200                        0             0
+Symbol 199                        0             0
+Symbol 198                        0             0
+starCities                        0             0
+greyDots                          0             0
+copperInvisible                   0             0
+silverspecial2                    0             0
+silverSpecial                     0             0
+silverInvisible                   0             0
+goldshapeInvismod                46             0
+goldInvisible                     0             0
+leadInvisible                     0             0
+ironInvisible                    36             0
+Symbol 134                        0             0
+timberinvisible                   0             0
+apollo                            0             0
+stmphalianbirds                   0             0
+invisiblesquare                   0             0
+redDotPlaceHolder                41             0
+Symbol 122                       61             0
+Symbol 121                       90             0
+Symbol 120                        0             0
+maps2holder                       0             0
+menuClose                         0             0
+mask                             40             0
+mapHolder                         0             0
+Symbol 36                        92             0
+Symbol 35                         0             0
+Symbol 34                         0             0
+Symbol 33                         0             0
+drop_pan_hellenic                 0           172
+drop_modern_greece                0           184
+drop_natural                      0           136
+drop_colonies                     0            98
+drop_myths                        0            98
+drop_modern_med                  39           212
+drop_pan_bg                     100             0
+colonies bg                      71             0
+main bg                         136             0
+but_arrow_right                   0             0
+but_arrow_left                    0             0
+Home                              0             0
+but_arrow_up                      0             0
+but_arrow_down                    0             0
+key bg                            0             0
+bg highlite                       0             0
+arrow template                    0             0
+map_greece_classical              0             0
+border transparent               45             0
+classical text                 1882          3808
+map_greece_modern                 0             0
+modern text                    1791          4678
+natural text                      0             0
+map_greece_religious              0           499
+religious text                    0             0
+map_mediterranean_colonies        0             0
+border transparent               44             0
+map_mediterranean_modern          0           193
+modern text                    1390          5337
+map_mediterranean_myths          82          1245
+myth text                         0             0
+crosshair                         0             0
+crosshair_mc                     98             0
+dragHand                          0             0
+map_greece_natural               51          4408
+greendot2                         0             0
+greendot                         59             0
+colonies                          0             0
+colonies kyme                    54           118
+colonies kyrene                 149           100
+colonies messalia                66            42
+colonies megara                 501           391
+colonies kerkya                  66             0
+colonies taras                   99            48
+colonies miletos               1259           846
+colonies phokaia                444           348
+colonies khalkis                610           392
+colonies thera                  149            42
+colonies sparta                 255           168
+colonies corinth                515           416
+colonies athens                 730           526
+star -corinth                    68             0
+Symbol 136                        0             0
+star-sparta                      69             0
+star-thera                       68             0
+star-chalkis                     69             0
+star-phokaia                     68             0
+star-miletos                     69             0
+star-taras                       68             0
+star-kerkyra                     68             0
+star-megra                       71             0
+star-massalia                    69             0
+star-kyrene                      69             0
+star-kyme                        68             0
+star-athens                      68             0
+grey star                        69             0
+preloadGraphic                   38             0
+bar                              55             0
+modern1                           0             0
+land fill                        43             0
+modern landfill                2413             0
+sea and rivers                29344             0
+scale                           583           339
+natural                           0             0
+religious                         0             0
+classical                         0             0
+classical areas                3369             0
+modern                            0             0
+land fill                        71             0
+modern countries              13194             0
+scale_med                      1302           227
+sea lakes rivers              29378             0
+myth                              0             0
+colonies                          0             0
+Key                             199            77
+Home copy                         0             0
+but_zoom in                       0             0
+but_zoom out                      0             0
+new reset symbol                 60            41
+new arrow in circle symbol       69             0
+new arrow symbol                106             0
+new minus magnifier             155             0
+new plus magnifier              228             0
+dropdown box                      0             0
+but_dropdown                    237            56
+dropdown list                   274             0
+drop_classical                    0           132
+infoArea                        199          1050
+drop_colonies copy               50           110
+colony button background         62             0
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+hand_grab.gif                     67         192   Lossless
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+_sans                          20        
+Arial Narrow Italic          1075         ABCDEGIKLMNRST
+Arial                         565         AIMNORS
+BlissLight                    848         ACDEGHILMNOPRTY
+Arial Italic                 3724         .ABCEGIKLMNOPRSTVYabcdefghijklmnoprstuvyzÇÍóö
+Arial Bold Italic            3262        ()ACGIKLMNPRSTZadefghiklmnoprstvxÁÍáçéíóö
+Arial Narrow                21112         !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿŒœŠšŸƒˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Arial Narrow Bold           20738         !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿŒœŠšŸƒˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Arial Bold                  20817         !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿŒœŠšŸƒˆ˜–—‘’‚“”„†‡•…‰‹›€™

@@ -1,0 +1,48 @@
+ body {
+	background-color: #000000;
+	color: white;
+}
+ :link {
+	color: #660000;
+	background-color : transparent;
+}
+ :visited {
+	color: #330000;
+	background-color : transparent;
+}
+ :active {
+	color: #cc0000;
+	background-color : transparent;
+}
+td{
+	font-family: helvetica,arial,sans-serif;
+	color : black;
+}
+td.main{
+	background-image : url(images/recordcard_r2_c2.jpg);
+}
+H3 {
+	font-family : helvetica,arial,sans-serif;
+	text-align : center;
+	padding-top : 10px;
+}
+.caption {
+	font-size : 75%;
+	text-align : center;
+	color : #cccccc;
+}
+.pad{
+	padding-left : 20px;
+	padding-right : 20px;
+	line-height : 21px;
+}
+.p_link{
+	color : #ffffcc;
+	font-weight : bold;
+}
+.noprint{
+	
+}
+.print{
+	display : none;
+}

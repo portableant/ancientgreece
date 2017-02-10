@@ -1,0 +1,23 @@
+&vote1=Those people on jury duty in a particular year are given a bronze token (called a pinakion) on which is inscribed their name and a letter, from alpha to kappa.
+
+&vote2=A special machine called a kleroterion is used to select those who will sit on a jury from those available for jury duty.
+ 
+&vote3=When a jury is needed, those people on jury duty come together and place their token in one of ten baskets, each of which has a letter on it from alpha to kappa. 
+
+&vote4=The people place their token in the basket with the same letter as their token.
+
+&vote5=The tokens from each basket are placed in the corresponding column, from alpha to kappa, of the kleroterion.
+
+&vote6=A number of black and white balls are mixed up in a basket and then poured into a funnel in the side of the kleroterion.
+
+&vote7=A crank at the bottom of the funnel is turned to release one of the balls.
+
+&vote8=It is a black ball, so the first row of tokens in the kleroterion is discarded - these people won't be jurors today.
+
+&vote9=It is a white ball, so the people whose tokens are in the next row of the kleroterion are selected as jurors.
+
+&vote10=The crank is turned and a ball released for each row of tokens in the kleroterion in turn.
+
+&vote11=
+
+&vote12=Those people selected as jurors would now have to attend a trial. Hear the arguments in the trial of Eirene and decide whether you think she is guilty or innocent!

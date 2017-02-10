@@ -1,0 +1,111 @@
+﻿&char1explan=<b>Diokles</b> is a goldsmith and owns a workshop beside the Agora. He is a metic which means he is a foreigner living in Athens.
+&char2explan=<b>Lydos</b> is a slave. He is owned by Epimachos, a potter. Epimachos has a workshop in the Kerameikos, a part of Athens that had many pottery workshops and a cemetery. Lydos is training to become a potter.
+&char3explan=<b>Aristophon</b> is a farmer from the countryside around Athens. He is attending a trial in the city today.
+&char4explan=<b>Ampharete</b> is an Athenian citizen. She sells cloth in the Agora every day.
+&char5explan=<b>Eleutheros</b> is a wealthy Athenian citizen.
+&char6explan=<b>Leagros</b> is a twelve year old boy. He is the son of an Athenian citizen. He has one sister.
+&char7explan=<b>Eirene</b> She is a metic which means she is a foreigner living in Athens. She is hired to play at symposia and parties.
+
+&intro=“As soon as the cock sends forth his morning song they all jump out of bed, blacksmiths, potters, leather-dressers, shoe-makers, bathmen, flour-dealers, lyre-turners and shield-makers; they slip on their shoes and rush off to work in the dark.”
+
+&zonename1=Before day break
+&zonename2=Early morning
+&zonename3=Morning
+&zonename4=Mid morning
+&zonename5=Afternoon
+&zonename6=Mid afternoon
+&zonename7=Late afternoon
+&zonename8=Evening
+&zonename9=Late evening
+&zonename10=Night
+&zonename11=Early hours of the morning
+
+&char11=
+&char12=
+&char13=I come down from my rooms above to the workshop and find that my son and my slave are already working. Our first customer arrives.  He gives me a couple of gold coins.  He wants me to make these into earrings for his wife.
+&char14=
+&char15=The shop is full now. Men come in from the Agora. Some are here to do business, some just want to chat and gossip. I am busy though. I am showing my son how to make filigree. It takes a great deal of skill and dexterity to shape and twist the tiny wires together. My son is 10. His small nimble fingers mean he will be very good at doing this kind of work.
+&char16=Most of the people have cleared from the shop. An important vote is happening in the assembly. I melt down the gold coins that were brought to the shop earlier. From these I will make a small gold sheet and some wires. I will use these to make the earrings.
+&char17=
+&char18=After dinner I go to the local wine shop. I have some wine and join my friends in a game of dice.
+&char19=
+&char110=I’ve lost my money again tonight playing dice. I walk home feeling very sorry for myself. A crowd of revellers leave a house after a symposium. They make a drunken procession beside me.
+&char111=
+
+&char21=
+&char22=
+&char23=I am already in my workshop as the dawn breaks. I see a funeral procession making its way to the cemetery outside the gates. The mourners follow the funeral bier dressed in black robes.
+&char24=
+&char25=I turn the potter’s wheel as my master shapes the vase. People come in to the front of the shop to buy the vases we have on sale. They are all decorated by my master. We have quite a small workshop so we can not employ a dedicated vase painter.
+&char26=
+&char27=The shop is quieter now so my master teaches me how to paint the vases. I make a sketch of an athlete on the pot with charcoal. My master shows me how to mix the clay and water to paint the athlete. When the pot is fired, the painted parts will turn black.
+&char28=We have finished our work for the day. As we clean up the shop, my master gets ready to go to the local wine shop. &char29=
+&char210=I have finished my chores in the house now and can finally relax. I play a game of knuckle-bones with my master’s son.
+&char211=
+
+&char31=I wake up before the cock crows today. I have to leave my estate early so that I can be in Athens in time for the allocation of jury duty this morning.
+&char32=
+&char33=The official turns the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/k/kleroterion.html','glos')">Kleroterion</a></u></font>.  I have been selected for jury service.  I follow the large crowd into the courtroom.
+&char34=
+&char35=The defendant, Demetrios, is making his speech. He tells us that he did not damage Apelleas’s property; he was nowhere near Apelleas’s house that day.…. The man beside me murmurs that he knows Demetrios; he thinks he is not a trustworthy person.
+&char36=
+&char37=The time has come to make our decision. I put my stone in the urn to convict Demetrios. I have heard many people say that he is not an honest man. His speech was not at all convincing.
+&char38=Demetrios has been convicted. The jury decided to make him pay money to Apelleas. I collect my money for attending the trial today and hurry home for dinner.
+&char39=
+&char310=My son tells me everything that happened on the farm today. Tomorrow we will start the olive harvest. I must rest well tonight to prepare for the work tomorrow.  We sit down to our dinner of fish and bread.
+&char311=
+
+
+&char41=
+&char42=I am at the fountain house.  I queue with the other women and slaves to fill my jars with water. I must bring water back to the house so my family can wash and cook. 
+&char43=My day has started off very well! I get an excellent price for a robe from my first customer, almost 20 drachmas! I shout over to the nearby stall-holders and let them know about my good fortune.
+&char44=
+&char45=Men pass by the stall and throw me scornful looks. They do not think that I am respectable. How can I be when I have left my home! They forget I am an Athenian citizen too! If I did not come to the Agora every day my family would surely starve. If I let my family go hungry would that make me respectable?
+&char46=
+&char47=The Agora is very quiet now. I’ll close up my stall, I don’t think I’ll sell anything more now. My son will soon be returning from the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/a/academy.html','glos')">Academy</a></u></font>. I’ll hurry home to prepare dinner.  
+&char48=Now it’s time to start spinning. My daughters help me by beating and carding the raw wool. My slave Kallo spins the wool while I work the loom. 
+&char49=
+&char410=Kallo and I pack up the clothes that we’ll bring to the Agora tomorrow. I pray that we sell all that we have made.
+&char411=
+
+
+&char51=
+&char52=The first light of day comes through the window. After breakfast I go out to the Agora. The place is lively and bustling; people talking and debating, stallholders trying to sell their wares, acrobats performing for passers by.
+&char53=
+&char54=I wander past the Monument of the Eponymous Heroes. A notice says that the assembly is meeting tomorrow to decide whether to send a fleet to the Bosporus. I must take part in the debate, for as <font color="#660000"><u><a href="javascript:openGlos('../../glossary/p/perikles.html','glos')">Perikles</a></u></font> has said, we Athenians ‘regard a man who takes no interest in public affairs not as <font color="#660000"><u><a href="javascript:openGlos('../../glossary/a/apathetic.html','glos')">apathetic</a></u></font>, but as completely useless.’
+&char55=I must collect groceries now. My wife needs some cheese and fish for tonight’s meal. I think I shall buy some of these nice figs too.
+&char56=
+&char57=
+&char58=I return home to wash and dress quickly for the symposium tonight. It is held at my friend Kallipos' house.  Sokrates has already arrived by the time I get there and a ferocious debate has ensued.
+&char59=
+&char510=The food is taken away, and the second part of the evening begins. Wine and water is brought in to be mixed.  We don garlands and musicians and acrobats start to perform.
+&char511=I wake up to find that I am still at the home of Kallipos. A few other guests are slumbering on the couches. I wake Adamas and we stumble home together as the first light of dawn is breaking.
+
+
+&char71=
+&char72=
+&char73=After returning from the fountain house I go to see my mother. She will tell me if I have any work for tonight. I am an aulos player. I am one of the best in the city.
+&char74=I walk around the Agora collecting groceries for my lunch today. I see a few other women in the market, some selling and some buying, but most of the people here are men. Xenophon says that ‘for the woman it is more honourable to remain indoors than to be outside’.
+&char75=
+&char76=I must do my weaving now.  I weave my own robes. Sometimes, when there is not a lot of work for me, I make clothes to sell at the Agora.
+&char77=
+&char78=I practice my aulos playing for tonight. The symposium at which I am playing is in the house of a very rich and important man, named Kallipos. I want to be able to play my very best.
+&char79=I play my aulos at the symposium. There are other entertainers here too, acrobats, other musicians and courtesans. The revellers are becoming quite drunk now. There are quite a few heated arguments going on.
+&char710=
+&char711=The symposium is quieter now. A few revellers are still debating, but most have either gone home or gone to sleep. I think I’ll go home now too.
+
+
+&char61=
+&char62=
+&char63=After my breakfast I say goodbye to my sister and go with my <font color="#660000"><u><a href="javascript:openGlos('../../glossary/p/paidagogos.html','glos')">paidagogos</a></u></font> to my tutor’s house. Today we are learning about the adventures of <font color="#660000"><u><a href="javascript:openGlos('../../glossary/o/odysseus.html','glos')">Odysseus</a></u></font>. My favourite part of the story is where <font color="#660000"><u><a href="javascript:openGlos('../../glossary/o/odysseus.html','glos')">Odysseus</a></u></font> escapes from the Cyclops. I can recite this part of the story word for word now.
+&char64=
+&char65=The sun is high. It is time to go to the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/a/academy.html','glos')">Academy</a></u></font>. Here I will train with other boys my age. &char66=Even though it is boiling hot, we must practice wrestling and boxing outside. I am exhausted. I take a seat and enjoy the shade under a tree.  An old man nearby is discussing what it means to be a good person. I don’t fully understand what he’s talking about but he has sparked off quite a lively debate.
+&char67=
+&char68=I return home for dinner with my mother and sister. I am very happy because today I won all the races at the <font color="#660000"><u><a href="javascript:openGlos('../../glossary/a/academy.html','glos')">Academy</a></u></font>. My father has already left to go to a symposium tonight.
+&char69=
+&char610=After playing a quick game of knuckle-bones with my sister I go to bed.
+&char611=
+
+&sunIntro=This is Helios, the sun god, in his chariot.
+
+&selecttext=Please select a character for you to follow through the day.
